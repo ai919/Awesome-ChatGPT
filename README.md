@@ -13,31 +13,31 @@
 
 ⭐️⭐️<strong>[Awesome-ChatGPT（GitHub）](https://github.com/dalinvip/Awesome-ChatGPT)</strong><strong>资源知识列表</strong>
 
-<strong>⭐️⭐️awesome-chatgpt（GitHub）</strong><strong>英文资源与知识列表</strong>
+<strong>⭐️⭐️[awesome-chatgpt（GitHub）](https://github.com/humanloop/awesome-chatgpt)</strong><strong>英文资源与知识列表</strong>
 
-<strong>⭐️⭐️⭐️The Ultimate GPT-4 Guide</strong><strong> 英文视频课程</strong>
+<strong>⭐️⭐️⭐️[The Ultimate GPT-4 Guide](https://doc.clickup.com/37456139/d/h/13q28b-324/e2a22b0c164b1f9)</strong><strong> 英文视频课程</strong>
 
-<strong>⭐️⭐️Learning Prompt</strong><strong> 提示词与基础教程学习站点</strong>
+<strong>⭐️⭐️[Learning Prompt](https://learningprompt.wiki/)</strong><strong> 提示词与基础教程学习站点</strong>
 
-<strong>⭐️Awesome ChatGPT（GitHub）</strong><strong> 英文资源列表</strong>
+<strong>⭐️[Awesome ChatGPT（GitHub）](https://github.com/humanloop/awesome-chatgpt)</strong><strong> 英文资源列表</strong>
 
-<strong>⭐️ChatGPT 学习手册（飞书）</strong><strong>飞书学习手册</strong>
+<strong>⭐️[ChatGPT 学习手册（飞书](https://nujuo8y1qx.feishu.cn/docx/AdqEdlT52oBiawx6Vv2cc89DnLb)</strong><strong>飞书学习手册</strong>
 
-<strong>⭐️⭐️⭐️ ChatGPT 中文指南（GitHub）</strong><strong>中文知识库</strong>
+<strong>⭐️⭐️⭐️ [ChatGPT 中文指南（GitHub）](https://github.com/yzfly/awesome-chatgpt-zh)</strong><strong>中文知识库</strong>
 
-<strong>⭐️⭐️⭐️awesome-chatgpt（GitHub）</strong><strong>中文教程与资源列表</strong>
+<strong>⭐️⭐️⭐️[awesome-chatgpt（GitHub）](https://github.com/OpenMindClub/awesome-chatgpt/blob/main/README.zh-cn.md)</strong><strong>中文教程与资源列表</strong>
 
-<strong>⭐️⭐️⭐️Learn Prompting</strong><strong> 中文提示词学习站点</strong>
+<strong>⭐️⭐️⭐️[Learn Prompting](https://learnprompting.org/zh-Hans/docs/intro)</strong><strong> 中文提示词学习站点</strong>
 
-<strong>⭐️⭐️ 120 分钟学会【ChatGPT】</strong><strong>中文经验分享</strong>
+<strong>⭐️⭐️ [120 分钟学会【ChatGPT】](https://wealthy-moose-b8d.notion.site/)</strong><strong>中文经验分享</strong>
 
-<strong>⭐️⭐️Learn Prompt</strong><strong> 中文知识库</strong>
+<strong>⭐️⭐️[Learn Prompt](https://www.learnprompt.pro/)</strong><strong> 中文知识库</strong>
 
-<strong>⭐️⭐️chatgpt.pro</strong><strong> 英文知识库</strong>
+<strong>⭐️⭐️[chatgpt.pro](https://chatgpt.pro/)</strong><strong> 英文知识库</strong>
 
-<strong>⭐️ 中文 ChatGPT 精选资源清单</strong><strong> 中文资源列表</strong>
+<strong>⭐️ [中文 ChatGPT 精选资源清单](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)</strong><strong> 中文资源列表</strong>
 
-<strong>⭐️⭐️⭐️awesome-ChatGPT-repositories</strong><strong> 英文资源列表大全</strong>
+<strong>⭐️⭐️⭐️[awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)</strong><strong> 英文资源列表大全</strong>
 
 # 🌐 值得关注的网站
 
