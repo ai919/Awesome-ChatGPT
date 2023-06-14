@@ -11,7 +11,7 @@
 
 本知识库绝大多数内容或者想法来源于以下：
 
-⭐️⭐️<strong>Awesome-ChatGPT（GitHub）</strong><strong>资源知识列表</strong>
+⭐️⭐️<strong>[Awesome-ChatGPT（GitHub）](https://github.com/dalinvip/Awesome-ChatGPT)</strong><strong>资源知识列表</strong>
 
 <strong>⭐️⭐️awesome-chatgpt（GitHub）</strong><strong>英文资源与知识列表</strong>
 
