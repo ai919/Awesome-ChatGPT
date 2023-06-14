@@ -66,6 +66,3 @@
 - [⭐️ 给 GPT 喂养数据](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#%EF%B8%8F-%E7%BB%99-gpt-%E5%96%82%E5%85%BB%E6%95%B0%E6%8D%AE)
 - [⭐️ 什么是 ChatGPT 越狱](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#%EF%B8%8F-%E4%BB%80%E4%B9%88%E6%98%AF-chatgpt-%E8%B6%8A%E7%8B%B1)
 - [⭐️ 生成音乐](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#%EF%B8%8F-%E7%94%9F%E6%88%90%E9%9F%B3%E4%B9%90)
-- [🌊 Riffusion](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#-riffusion)
-- [[🎶 Mubert](https://mubert.com/)]([https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#-muberthttpsmubertcom](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#-muberthttpsmubertcom))
-- [🔀 其他](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#-%E5%85%B6%E4%BB%96)
