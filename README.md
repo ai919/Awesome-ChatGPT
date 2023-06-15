@@ -46,8 +46,6 @@
 - GPT 学习宝典 [https://gpt.candobear.com/courses](https://gpt.candobear.com/courses)
 
 
-# 
-
 <strong>🤖 ChatGPT 基础教程</strong>
 
 - [❓ ChatGPT 是什么](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#-chatgpt-%E6%98%AF%E4%BB%80%E4%B9%88)
@@ -66,3 +64,18 @@
 - [⭐️ 给 GPT 喂养数据](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#%EF%B8%8F-%E7%BB%99-gpt-%E5%96%82%E5%85%BB%E6%95%B0%E6%8D%AE)
 - [⭐️ 什么是 ChatGPT 越狱](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#%EF%B8%8F-%E4%BB%80%E4%B9%88%E6%98%AF-chatgpt-%E8%B6%8A%E7%8B%B1)
 - [⭐️ 生成音乐](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#%EF%B8%8F-%E7%94%9F%E6%88%90%E9%9F%B3%E4%B9%90)
+
+# 🔍 通常资源
+
+- [ChatGPT 官方应用程序](https://chat.openai.com/)
+- [OpenAI API 文档](https://beta.openai.com/docs)
+- [chatGPT 发布博客](https://openai.com/blog/chatgpt/)
+- [OpenAI Discord 频道](https://discord.com/invite/openai)
+- [AI Text Classifier 检测 AI](https://platform.openai.com/ai-text-classifier)
+- [Wikipedia ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
+
+# <strong>🆕 版本</strong> 
+- [前往wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#-%E7%89%88%E6%9C%AC)
+
+# <strong>🛍️ OpenAI 产品</strong>
+- [前往wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%EF%B8%8F-openai-%E4%BA%A7%E5%93%81)
