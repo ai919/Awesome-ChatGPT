@@ -891,7 +891,7 @@ Please pay attention:
 
 ## 实例列表
 
-更多的实例将在wiki更新：[前往wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%8C%9F-%E7%B2%BE%E9%80%89%E4%B8%8E%E8%B5%84%E6%96%99#%E5%AE%9E%E4%BE%8B%E5%88%97%E8%A1%A8)
+更多的实例将在wiki更新：[前往wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E5%AE%9E%E4%BE%8B%E5%88%97%E8%A1%A8)
 
 提示标题 | 分类 | Prompt
 -- | -- | --
@@ -928,7 +928,7 @@ Please pay attention:
 
 ## 精选资料
 
-更多的资料将在wiki更新：[前往wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%8C%9F-%E7%B2%BE%E9%80%89%E4%B8%8E%E8%B5%84%E6%96%99#%E7%B2%BE%E9%80%89%E8%B5%84%E6%96%99)
+更多的资料将在wiki更新：[前往wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E7%B2%BE%E9%80%89%E8%B5%84%E6%96%99)
 
 - 文章：关于 AI 未来，我有十二条自用的思考 Prompt 分享
 
