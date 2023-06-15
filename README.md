@@ -1207,3 +1207,212 @@ Free ChatGPT Site List，一个专门收集分享 ChatGPT 镜像站点的网站�
 ## 💸 副业赚钱
 [见wiki部分](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%A1-ChatGPT%E5%BA%94%E7%94%A8#-%E5%89%AF%E4%B8%9A%E8%B5%9A%E9%92%B1)
 
+# 📚 AI领域其它资源
+
+## 文章汇总
+
+标题 | 地址 | 分类 | 类型 | 标签
+-- | -- | -- | -- | --
+GPT-4震撼发布：多模态大模型，直接升级ChatGPT、必应，开放API，游戏终结了？ | https://mp.weixin.qq.com/s/kA7FBZsT6SIvwIkRwFS-xw | 洞察 | 图文 | GPT-4,OpenAI,大模型
+GPT4震撼发布！哈佛教授：程序员职业3年内将被终结 | https://mp.weixin.qq.com/s/c0KR3Jv_1Y3216N7SlOO3Q | 洞察 | 图文 | ChatGPT,GPT-4,OpenAI
+李开复最新万字演讲：AI 2.0是绝对不能错过的一次革命 | https://mp.weixin.qq.com/s/ddGbZd78BEd65L7599V3Cw | 洞察 | 图文 | AI,人物
+见证历史：ChatGPT版搜索引擎登场，12个新体验太震撼了 | https://36kr.com/p/2123086022363273 | 快讯 | 图文 | ChatGPT
+今天，微软重新发明搜索引擎：首款ChatGPT搜索来了 | https://mp.weixin.qq.com/s/bZlpr4BhL4wpiE0TQovuxg | 快讯 | 图文 | ChatGPT,微软
+Google发布Bard与ChatGPT竞争 | https://hub.baai.ac.cn/view/23925 | 快讯 | 图文 | Google,Bard
+【OpenAI官方网站】ChatGPT Blog | https://openai.com/blog/chatgpt | 论文 | 汇总 | OpenAI,ChatGPT
+【ChatGPTPro】ChatGPTPro | https://chatgpt.pro/ | 论文 | 汇总 | ChatGPT
+【GPT-1论文】Improving Language Understanding by Generative Pre-Training | https://cdn.openai.com/research-covers/language-unsupervised/language_understanding_paper.pdf | 论文 | 图文 | ChatGPT
+【GPT-2论文】Language Models are Unsupervised Multitask Learners | https://cdn.openai.com/better-language-models/language_models_are_unsupervised_multitask_learners.pdf | 论文 | 图文 | ChatGPT
+【GPT-3论文】Language Models are Few-Shot Learners | https://arxiv.org/abs/2005.14165 | 论文 | 图文 | ChatGPT
+【InstructGPT论文】Training language models to follow instructions with human feedback | https://arxiv.org/pdf/2203.02155.pdf | 论文 | 图文 | AI
+【RHLF论文】Augmenting Reinforcement Learning with Human Feedback | https://www.cs.utexas.edu/~ai-lab/pubs/ICML_IL11-knox.pdf | 论文 | 图文 | AI
+【RHLF相关论文12篇】RHLF论文集 | https://github.com/dalinvip/Awesome-ChatGPT/tree/main/PDF/RLHF%E8%AE%BA%E6%96%87%E9%9B%86 | 论文 | 汇总 | AI
+【PPO算法论文】Proximal Policy Optimization Algorithms | https://arxiv.org/abs/1707.06347 | 论文 | 图文 | AI,算法
+【Sparrow】Improving alignment of dialogue agents via targeted human judgements | https://arxiv.org/abs/2209.14375 | 论文 | 图文 | AI,算法
+【LaMda】LaMDA: Language Models for Dialog Applications | https://arxiv.org/abs/2201.08239 | 论文 | 图文 | AI,算法
+【代码实现】 ColossalAI hpcaitech/ColossalAI/ChatGPT | https://github.com/hpcaitech/ColossalAI/tree/main/applications/ChatGPT | 教程,方案 | 汇总 | AI,大模型,算法
+【PDF资料】ChatGPT-真格基金分享.pdf | https://github.com/dalinvip/Awesome-ChatGPT/blob/main/PDF/ChatGPT-%E7%9C%9F%E6%A0%BC%E5%9F%BA%E9%87%91%E5%88%86%E4%BA%AB.pdf | 洞察 | 图文 | ChatGPT
+【PDF资料】腾讯研究院AIGC发展趋势报告2023.pdf | https://github.com/dalinvip/Awesome-ChatGPT/blob/main/PDF/%E8%85%BE%E8%AE%AF%E7%A0%94%E7%A9%B6%E9%99%A2AIGC%E5%8F%91%E5%B1%95%E8%B6%8B%E5%8A%BF%E6%8A%A5%E5%91%8A2023.pdf | 洞察 | 图文 | AI
+【PDF资料】从CHAT_GPT到生成式AI（Generative AI）：人工智能新范式，重新定义生产力.pdf | https://github.com/dalinvip/Awesome-ChatGPT/blob/main/PDF/%E4%BB%8ECHAT_GPT%E5%88%B0%E7%94%9F%E6%88%90%E5%BC%8FAI.pdf | 洞察 | 图文 | AI,ChatGPT
+【PDF资料】ChatGPT - 开启AI新纪元.pdf | https://github.com/dalinvip/Awesome-ChatGPT/blob/main/PDF/ChatGPT-%E5%BC%80%E5%90%AFAI%E6%96%B0%E7%BA%AA%E5%85%83.pdf | 洞察 | 图文 | AI,ChatGPT
+【PDF资料】ChatGPT研究框架 | https://mp.weixin.qq.com/s/YtJn2pfdS_on1nSATOylYw | 洞察 | 图文 | ChatGPT
+【PDF资料】ChatGPT研究框架2023.pdf | https://github.com/dalinvip/Awesome-ChatGPT/blob/main/PDF/ChatGPT%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B62023.pdf | 洞察 | 图文 | ChatGPT
+【PDF资料】AIGC行业深度报告-ChatGPT-重新定义搜索“入口”.pdf | https://github.com/dalinvip/Awesome-ChatGPT/blob/main/PDF/AIGC%E8%A1%8C%E4%B8%9A%E6%B7%B1%E5%BA%A6%E6%8A%A5%E5%91%8A-ChatGPT-%E9%87%8D%E6%96%B0%E5%AE%9A%E4%B9%89%E6%90%9C%E7%B4%A2%E2%80%9C%E5%85%A5%E5%8F%A3%E2%80%9D.pdf | 洞察 | 图文 | ChatGPT
+【PDF资料】三分钟看懂ChatGPT.pdf | https://github.com/dalinvip/Awesome-ChatGPT/blob/main/PDF/%E4%B8%89%E5%88%86%E9%92%9F%E7%9C%8B%E6%87%82ChatGPT.pdf | 教程 | 图文 | ChatGPT
+【PDF资料】从ChatGPT到通用智能新长征上的新变化.pdf | https://github.com/dalinvip/Awesome-ChatGPT/blob/main/PDF/%E4%BB%8EChatGPT%E5%88%B0%E9%80%9A%E7%94%A8%E6%99%BA%E8%83%BD%E6%96%B0%E9%95%BF%E5%BE%81%E4%B8%8A%E7%9A%84%E6%96%B0%E5%8F%98%E5%8C%96.pdf | 论文 | 图文 | AI,ChatGPT
+【PDF资料】像ChatGPT这样的工具如何改变你的企业.pdf | https://github.com/dalinvip/Awesome-ChatGPT/blob/main/PDF/%E5%83%8FChatGPT%E8%BF%99%E6%A0%B7%E7%9A%84%E5%B7%A5%E5%85%B7%E5%A6%82%E4%BD%95%E6%94%B9%E5%8F%98%E4%BD%A0%E7%9A%84%E4%BC%81%E4%B8%9A.pdf | 论文 | 图文 | AI,ChatGPT
+【PDF资料】揭秘ChatGPT身后的AIGC技术和它的中国同行们.pdf | https://github.com/dalinvip/Awesome-ChatGPT/blob/main/PDF/%E6%8F%AD%E7%A7%98ChatGPT%E8%BA%AB%E5%90%8E%E7%9A%84AIGC%E6%8A%80%E6%9C%AF%E5%92%8C%E5%AE%83%E7%9A%84%E4%B8%AD%E5%9B%BD%E5%90%8C%E8%A1%8C%E4%BB%AC.pdf | 快讯 | 图文 | AI,ChatGPT
+【PDF资料】ChatGPT_Prompts_使用场景.pdf | https://github.com/dalinvip/Awesome-ChatGPT/blob/main/PDF/ChatGPT/ChatGPT_Prompts_%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF.pdf | 教程 | 图文 | ChatGPT,Prompts
+【PDF资料】ChatGPT过去现在与未来.pdf | https://github.com/dalinvip/Awesome-ChatGPT/blob/main/PDF/ChatGPT/ChatGPT%E8%BF%87%E5%8E%BB%E7%8E%B0%E5%9C%A8%E4%B8%8E%E6%9C%AA%E6%9D%A5.pdf | 洞察,论文 | 图文 | AI,ChatGPT
+【技术解读】huggingface解读 Illustrating Reinforcement Learning from Human Feedback (RLHF) | https://huggingface.co/blog/rlhf | 论文 | 图文 | 算法,ChatGPT
+【技术解读】ChatGPT发展历程、原理、技术架构详解和产业未来 （收录于先进AI技术深度解读） | https://zhuanlan.zhihu.com/p/590655677 | 技术,论文 | 图文 | ChatGPT,大模型,算法
+【技术解读】ChatGPT内核：InstructGPT，基于反馈指令的PPO强化学习 | https://zhuanlan.zhihu.com/p/589747432 | 技术,论文 | 图文 | ChatGPT,大模型,算法
+【技术解读】HuggingFace-解读 ChatGPT 背后的技术重点：RLHF、IFT、CoT、红蓝对抗 | https://zhuanlan.zhihu.com/p/602458131 | 技术 | 图文 | ChatGPT,大模型,算法
+【技术解读】从零实现ChatGPT——RLHF技术笔记 | https://zhuanlan.zhihu.com/p/591474085 | 技术 | 图文 | ChatGPT,大模型,算法
+【技术解读】张俊林-通向AGI之路：大型语言模型（LLM）技术精要 | https://zhuanlan.zhihu.com/p/597586623 | 技术,论文 | 图文 | ChatGPT,大模型,算法
+【技术解读】ChatGPT/InstructGPT详解 | https://zhuanlan.zhihu.com/p/590311003 | 技术 | 图文 | ChatGPT,大模型,算法
+【技术解读】 赛尔笔记 \| 浅析ChatGPT的原理及应用 | https://mp.weixin.qq.com/s/wLVoY6BwWd9p4DqrpOMOxg | 技术,论文 | 图文 | ChatGPT,大模型,算法
+【技术解读】抱抱脸：ChatGPT背后的算法——RLHF \| 附12篇RLHF必刷论文(论文在上面资料中) | https://zhuanlan.zhihu.com/p/592671478 | 技术,论文 | 图文 | ChatGPT,大模型,算法
+【技术解读】ChatGPT背后人工智能算法全部由国外公司发明 | https://xueqiu.com/5760078642/241228577 | 快讯,技术 | 图文 | 算法,ChatGPT
+【技术解读】万字拆解！追溯ChatGPT各项能力的起源 | https://mp.weixin.qq.com/s/VYv8BRgGnp9ZTuXxaSuFwg | 技术,论文 | 图文 | ChatGPT,大模型,算法
+【技术解读】拆解追溯 GPT-3.5 各项能力的起源 | https://yaofu.notion.site/GPT-3-5-360081d91ec245f29029d37b54573756 | 技术,论文 | 图文 | ChatGPT,大模型,算法
+【技术解读】ChatGPT出来后，我们是否真的面临范式转变? | https://mp.weixin.qq.com/s/60_h5biTOlBAa3Rt2tMn6A | 技术,论文 | 图文 | 算法,ChatGPT
+【技术解读】腾讯技术工程\|万字长文教你如何做出 ChatGPT | https://mp.weixin.qq.com/s/8IFcQDhsLIWJIx8siF-wdQ | 技术,教程 | 图文 | ChatGPT
+【腾讯】关于ChatGPT的五个最重要问题 | https://mp.weixin.qq.com/s/ACMAeGi0LPRWt2B8VrIojQ | 技术,论文 | 图文 | ChatGPT,大模型,算法
+【李宏毅】ChatGPT (可能)是怎麼煉成的 - GPT 社會化的過程 | https://www.bilibili.com/video/BV1U84y167i3?p=1&vd_source=71b548de6de953e10b96b6547ada83f2 | 技术 | 视频 | ChatGPT
+【陈縕侬】深度學習之應用 \| ADL 17.3: OpenAI ChatGPT 驚驗眾人的對話互動式AI | https://www.bilibili.com/video/BV1U84y167i3?p=3&vd_source=71b548de6de953e10b96b6547ada83f2 | 技术 | 视频 | ChatGPT
+【李沐】InstructGPT 论文精读【论文精读·48】 | https://www.bilibili.com/video/BV1hd4y187CR/?spm_id_from=333.788&vd_source=71b548de6de953e10b96b6547ada83f2 | 论文 | 视频 | ChatGPT
+【油管】chatgpt基本工作原理简单清晰介绍 | https://www.youtube.com/watch?v=e0aKI2GGZNg&t=24s | 技术 | 视频 | ChatGPT
+GPT4Tools：通过 Self-instruction 来教授 LLM 使用工具 | https://arxiv.org/pdf/2304.07396.pdf | 论文 | 图文 | GPT-4
+利用大型语言模型协助医生改善临床试验的患者预筛选 | https://arxiv.org/pdf/2304.07396.pdf | 论文 | 图文 | 大模型
+Low-code LLM: Visual Programming over LLMs | https://arxiv.org/pdf/2304.08103.pdf | 论文 | 图文 | AI
+使用人工智能编程是怎样的体验？ | https://arxiv.org/pdf/2208.06213.pdf | 论文 | 图文 | 大模型
+Scaling Transformer to 1M tokens and beyond with RMT | https://arxiv.org/pdf/2304.11062.pdf | 论文 | 图文 | 大模型
+Renate: A Library for Real-World Continual Learning | https://arxiv.org/pdf/2304.12067.pdf | 论文 | 图文 | 算法
+AudioGPT：了解和生成语音、音乐、声音和说话人 | https://arxiv.org/pdf/2304.12995.pdf | 论文 | 图文 | 算法
+通过对多个思维链进行元推理 | https://arxiv.org/pdf/2304.13007.pdf | 论文 | 图文 | 大模型
+Towards Explainable and Safe Conversational Agents for Mental Health: A Survey | https://arxiv.org/pdf/2304.13191.pdf | 论文 | 图文 | AI
+Evaluation of GPT-3.5 and GPT-4 for supporting real-world information needs in healthcare delivery | https://arxiv.org/pdf/2304.13714.pdf | 论文 | 图文 | GPT-4
+HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in Hugging Face | https://arxiv.org/pdf/2303.17580.pdf | 论文 | 图文 | 大模型
+Industrial Engineering with Large Language Models: A case study of ChatGPT’s performance on Oil & Gas problems | https://arxiv.org/pdf/2304.14354.pdf | 论文 | 图文 | 算法
+Multi-Party Chat: Conversational Agents in Group Settings with Humans and Models | https://arxiv.org/pdf/2304.13835.pdf | 论文 | 图文 | AI
+零基础AI入门指南 | https://www.liaoxuefeng.com/article/1543329456062498 | 论文 | 图文 | AI
+What is ChatGPT doing...and why does it work? GPT原理 | https://youtu.be/flXrLGPY3SU | 技术 | 视频 | ChatGPT
+Let's build GPT: from scratch, in code, spelled out. 手把手带你从零开始写一个GPT程序 | https://youtu.be/kCc8FmEb1nY | 教程,技术 | 视频 | ChatGPT
+How to fine-tune GPT-3 without code 微调GPT-3，拥有一个属于你自己的、私人订制的GPT | https://youtu.be/PB3JY89SxM0 | 技术,教程 | 视频 | ChatGPT
+What Is ChatGPT Doing and Why Does It Work?WolframAlpha 之父 Stephen Wolfram 写的一篇讲 ChatGPT 原理的长文。 | https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/ | 技术 | 图文 | ChatGPT
+深度学习论文精读 - 李沐的深度学习论文精读资源合集。 | https://github.com/mli/paper-reading | 论文 | 视频 | ChatGPT,大模型,AI,算法
+OpenAI Research index - 本页是 OpenAI 关于人工智能各种主题的研究论文列表。 | https://openai.com/research | 论文 | 汇总 | OpenAI
+HellaSwag (rowanzellers.com) Can a Machine Really Finish Your Sentence? AI是否具备人类常识？数据集下载地址以及各个大模型的得分 | https://github.com/rowanz/hellaswag | 技术,洞察,论文 | 汇总 | AI
+230311 哈尔滨工业大学 ChatGPT 调研报告 | https://www.baogaoting.com/info/248610 | 论文,洞察 | 图文 | ChatGPT
+230221 ChatGPT 团队背景研究报告 | https://chatgpt.greedyai.com/forgeneral/%E4%BB%80%E4%B9%88%E6%98%AFChatGPT/ChatGPT%E5%9B%A2%E9%98%9F%E8%83%8C%E6%99%AF%E7%A0%94%E7%A9%B6%E6%8A%A5%E5%91%8A/ | 洞察 | 图文 | OpenAI
+ChatGPT 报告 70 份论文 | https://www.aliyundrive.com/s/V94kCe9qQnC | 论文 | 图文 | ChatGPT
+Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM | https://github.com/facebookresearch/segment-anything | 技术 | 图文 | AI
+贾扬清 阿里离职报道链接 | https://mp.weixin.qq.com/s/ErbtO1f4Tidd5n9-cWAtMg | 快讯 | 图文 | 人物
+李沐 创业公司 \| Boson.ai | https://boson.ai/ | 快讯 | 图文 | 人物
+彭志辉 创业公司 \| 智元机器人 | https://www.bilibili.com/opus/780732923273805830?spm_id_from=333.999.0.0 | 快讯 | 图文 | 公司
+李开复 Project AI 2.0 相关报道：筹办新公司，全球招英才 | https://mp.weixin.qq.com/s/OVg6rbWEdq_JVEyboYdQpg | 快讯 | 图文 | 人物,公司
+杨红霞 阿里达摩院 -> 字节 AI Lab | https://zhuanlan.zhihu.com/p/616112186 | 快讯 | 图文 | 人物
+王慧文 收购国产AI框架OneFlow, 基建中国版ChatGPT | https://mp.weixin.qq.com/s/KESP2TAHhTkM5z1IhfoyvQ | 快讯 | 图文 | 人物
+王小川 搜狗前CEO王小川官宣大模型创业 | https://mp.weixin.qq.com/s/3it0yuEf5yU6YifInWfvqQ | 快讯 | 图文 | 人物
+  |   |   |   |  
+
+## <strong>公司分析与风险投资分析</strong>
+
+### <strong>OpenAI 投资者</strong>
+
+- Pre Seed 轮：Y Combinator（创业孵化器）
+- 种子轮：Reid Hoffman Foundation（莱德·霍夫曼基金会）
+- 种子轮：Khosla Ventures（卡斯拉风投）
+- 企业轮：Microsoft（微软）
+- 二级市场：Tiger Global Management（老虎环球管理）
+- 二级市场：Andreessen Horowitz（安德森·霍洛维茨）
+- 二级市场：Sequoia Capital（红杉资本）
+- 二级市场：Bedrock Capital（基石资本）
+- 二级市场：Matthew Brown Companies（马修·布朗公司）
+- 企业轮：Microsoft（微软）。
+
+### <strong>OpenAI 投资的公司</strong>
+
+- [edgedb](https://www.edgedb.com/) - EdgeDB 是一个开源数据库，旨在作为 SQL 和关系范式的精神继承者。它旨在解决一些使现有数据库不必要地繁重使用的硬设计问题。
+- [Descript](https://www.descript.com/) - Descript 是一个协作式音频和视频编辑器，可将音频转录到文本文件中进行编辑。
+- [Ambience Healthcare](https://www.ambiencehealthcare.com/) - Ambience AutoScribe 是一款全自动的人工智能医疗抄写员，它能实时捕捉医疗机构与患者对话的细微差别，并将其纳入 EMR 工作流程。
+- [Harvey](https://www.harvey.ai/) - Harvey 是一个智能工具，能让法律工作中研究、起草、分析和沟通等繁琐的工作变得更轻松、更高效。
+- [Mem](https://get.mem.ai/) - Mem 正在构建世界上第一个自组织工作空间，Mem 通过消除组织和访问信息的单调乏味和苦差事来提高知识工作者的工作效率。
+- [Speak](https://www.speak.com/) - Speak 是一款帮助学习新语言的工作，主要是非英语国家学习英语。
+
+### <strong>OpenAI 支持的公司</strong>
+
+- [Virtuzone](https://launchpad.vz.ae/) - 阿联酋领先的公司成立专家和屡获殊荣的企业服务提供商，推出 SWYFT 计划，这是一个由 OpenAI 的 ChatGPT 支持的自动商业计划生成器，允许用户在 10 分钟内生成一个完整的商业计划。
+- [https://openai.com/product/gpt-4](https://openai.com/product/gpt-4) 我们和一些正在使用 GPT-4 构建创新产品的组织合作。
+
+### <strong>OpenAI 生态与产品矩阵</strong>
+
+- 文本
+
+  - ChatGPT - 一个名为 ChatGPT 的模型，它以对话的方式进行交互。对话格式使 ChatGPT 能够回答后续问题、承认错误、质疑不正确的前提并拒绝不适当的请求。
+  - GPT - GPT 模型能够执行自然语言处理任务，比如文本生成、摘要和分析。GPT 系列进化过程：GPT-1、GPT-2、GPT-3、Codex、InstructGPT、Code-davinci-002、Text-davinci-002、Text-davinci-003。
+  - Embedding model - 新的模型取代了文本搜索、文本相似性和代码搜索的五个独立模型，并且在大多数任务上优于我们以前最强大的模型 Davinci，同时价格降低了 99.8%。
+- 图像
+
+  - DALL·E - 是一个人工智能系统，它可以通过自然语言的描述来创造逼真的图像和艺术。
+  - CLIP - 连接文本和图像。一个叫做 CLIP 的神经网络，它可以有效地从自然语言监控中学习视觉概念。CLIP 可以应用于任何可视化分类基准，只需提供要识别的可视化类别的名称，类似于 GPT-2 和 GPT-3 的“0-shot”功能。
+  - [Point-E](https://github.com/openai/point-e) - 一个从复杂提示词生成 3D 点云的系统。
+- 音频
+
+  - Whisper - Whisper 是一种通用的语音识别模型，可以转录、识别和翻译多种语言。
+  - Jukebox - 一个神经网络，生成音乐作为原始音频在各种流派和艺术家的风格。
+  - MuseNet - 这是一个深度神经网络，可以用 10 种不同的乐器生成 4 分钟的音乐作品。
+
+### <strong>竞品：对话式机器人</strong>
+
+- [OpenChatKit](https://github.com/togethercomputer/OpenChatKit) - 一个类 ChatGPT 开源工具包，基于 EleutherAI 的 GPT-NeoX-20B，内含一个 20B 参数量的大模型，而且该模型在 4300 万条指令上进行了微调。
+- [Jasper Chat](https://www.jasper.ai/chat) - Jasper AI 生态中的一项功能，与 ChatGPT 不同的是，它是付费服务。
+- [Character ai](https://beta.character.ai/) - 和 ChatGPT 不一样的是，它对聊天的对象（也就是机器人）有很多细分领域。所有人都来参与创建，而不是完全自行创建并训练模型！
+- [Bard](https://blog.google/technology/ai/bard-google-ai-search-updates/) - 谷歌推出的对话机器人。Bard 构建于 LaMDA 模型的基础上，相较于 ChatGPT，Bard 可以检索网页，从而能够回答有关最近发生事件的问题。
+- [YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat) - 由 You.com 推出的聊天机器人，是一款基于 GPT-3 的可用于编写电子邮件和其他文档的文本生成器。相较于 ChatGPT，YouChat 的回复中会带有引用，进而可以帮助用户追踪每条信息的来源。
+- [Perplexity AI](https://www.perplexity.ai/) - 核心是将大规模语言模型和搜索引擎结合来进行问答，通过连续对话的形式提供用户需要的答案。相较于 ChatGPT，Perplexity AI 能够提供信息的来源，但其答案的流畅度和完整度相较于 ChatGPT 略显逊色。
+- [MOSS](https://moss.fastnlp.top/) -可执行对话生成、编程、事实问答等一系列任务。
+- [ChatGLM](https://chatglm.cn/blog?continueFlag=af5320e8f778b996afe7697670864685) 这是一个初具问答和对话功能的千亿中英语言模型， 并针对中文进行了优化。
+- 中国企业正在研发的对话机器人
+
+  - [文心一言](https://yiyan.baidu.com/welcome)：文心一言 (英文名:ERNIE Bot) 是百度基于文心大模型技术推出的生成式对话产品。
+  - 科大讯飞学习机：科大讯飞表示，其生成式预训练大模型技术将率先落地于 AI 学习机产品。
+  - 京东 ChatJD：2023 年 2 月 10 日，京东宣布将推出产业版 ChatGPT: ChatJD。
+  - 腾讯的混元助手：致力于开发腾讯对话式通用人工智能系统。
+  - [澜舟认知智能平台](https://langboat.com/technology/mengzi) 基于孟子预训练技术，解锁文图生成、文学辅助创作、营销文案写作、论文助写等全方位 AIGC 能力。
+
+### <strong>竞品：大语言模型</strong>
+
+- [LaMDA](https://blog.google/technology/ai/lamda/): <strong>对话应用的语言模型</strong>是一个由谷歌开发的对话大型语言模型系列。LaMDA 使用的是一个仅有解码器的变换器语言模型。
+- [LLaMA](https://github.com/facebookresearch/llama): 由 Meta AI 开发，一个基础性的，650 亿参数的大型语言模型。旨在帮助研究人员推进他们在人工智能子领域的工作。
+- [Gopher](https://arxiv.org/abs/2112.11446) - 由 DeepMind 提供的 2800 亿参数的变换器语言模型，名为 Gopher，是一个基于自回归变换器的密集型 LLM。
+- [GLM](https://github.com/THUDM/GLM-130B) - GLM 是清华大学开发的通用语言模型。GLM-130B 是 GLM 的开源双语（英文&中文）版本，拥有 1300 亿个参数，为拥有单个 A100 或 V100 服务器的用户设计。
+- [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) 一个可以进行聊天和图片生成的开源语言模型。
+- [BLOOM](https://huggingface.co/bigscience/bloom) - BLOOM 是 BigScience 的一个自回归大型语言模型（LLM），经过训练，可以利用工业规模的计算资源，从大量的文本数据中延续提示的文本。
+- OPT - 利用元人工智能技术，在开放式预训变压器语言模型中提出了 OPT 模型。OPT 是一系列开源的大型因果语言模型，其性能与 GPT3 相似。
+
+## <strong>学术分析</strong>
+
+### <strong>关键术语对照表</strong>
+
+- 大型语言模型 Large language model
+- 指令微调 Instruction fine-tuning
+- 上下文学习 In-context learning
+- 零样本学习 Zero-shot learning
+- 少样本学习 Few-shot learning
+- 提示词工程 Prompt engineering
+- 思维链 Chain-of thought (COT)
+- 强化学习 Reinforcement learning
+- 基于人类反馈的强化学习 Reinforcement Learning from Human Feedback (RLHF)
+
+### <strong>ChatGPT 的技术原理</strong>
+
+- 2014 [Neural Machine Translation by Jointly Learning to Align and Translate](https://arxiv.org/abs/1409.0473) - 这篇论文在 RNN 中引入了注意力机制，提升 RNN 的长序列建模能力。这使得 RNN 能够更准确地翻译更长的句子。
+- 2017 [Attention Is All You Need](https://arxiv.org/abs/1706.03762) - 这篇论文介绍了原始的 Transformer 的结构，是 Transformer 系列的基础。
+- 2018 [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) - 这篇论文开启了 NLP 领域的预训练时代。BERT 横空出世。
+- 2018 [Improving language understanding by generative pre-training](https://openai.com/research/language-unsupervised) - 这篇论文介绍了另一个流行的预训练模型，也就是被后人所熟知的 GPT-1。
+- 2019 [Language models are unsupervised multitask learners](https://www.semanticscholar.org/paper/Language-Models-are-Unsupervised-Multitask-Learners-Radford-Wu/9405cc0d6169988371b2755e573cc28650d14dfe) - 这篇论文引入了 GPT-2。
+- 2020 [Language Models are Few-Shot Learners](https://arxiv.org/abs/2005.14165) - 这篇论文引入了 GPT-3。
+- 2022 [Training lanquage models to follow instructions with human feedback](https://arxiv.org/abs/2203.02155) - 这篇论文提出了一种 RLHF 的方式，使用监督学习对模型进行微调。这篇论文也被称为阐述 ChatGPT 思想内核的论文。可以推测，ChatGPT 是 InstructGPT 的扩展版本，它实现了在更大的数据集上的微调。
+- 2023 [GPT-4 Technical Report](https://arxiv.org/abs/2303.08774) GPT-4，一个大规模多模态模型，可以接受图像和文本输入，并产生文本输出。
+- awesome-chatgpt-papers [https://www.aliyundrive.com/s/RenfDZjta8T](https://www.aliyundrive.com/s/RenfDZjta8T) 提取码: 5y6m
+
+### <strong>Prompt engineering 的最近进展</strong>
+
+- 2021 [Generated Knowledge Prompting for Commonsense Reasoning](https://arxiv.org/abs/2110.08387)
+- 2021 [Multitask Prompted Training Enables Zero-Shot Task Generalization](https://arxiv.org/abs/2110.08207)
+- 2021 [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://arxiv.org/abs/2107.13586)
+- 2021 [Prompt Programming for Large Language Models: Beyond the Few-Shot Paradigm](https://arxiv.org/abs/2102.07350)
+- 2022 [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
+- 2022 [Self-Consistency Improves Chain of Thought Reasoning in Language Models](https://arxiv.org/abs/2203.11171)
+
+### <strong>LLMs 的最新进展</strong>
+
+- 2023 <u>Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models</u>
+
+### <strong>社会影响</strong>
+
+- 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130) 研究表明，大约 80% 的美国劳动力可能有至少 10% 的工作任务受到 GPT 引入的影响，而约 19% 的工作者可能有至少 50% 的任务受到影响。影响涵盖了所有工资水平，高收入工作可能面临更大的风险。
+
+[1](https://github.com/OpenMindClub/awesome-chatgpt/blob/main/README.zh-cn.md)
