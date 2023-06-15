@@ -111,4 +111,18 @@
 - [⭐️ 什么是 ChatGPT 越狱](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#%EF%B8%8F-%E4%BB%80%E4%B9%88%E6%98%AF-chatgpt-%E8%B6%8A%E7%8B%B1)
 - [⭐️ 生成音乐](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#%EF%B8%8F-%E7%94%9F%E6%88%90%E9%9F%B3%E4%B9%90)
 
-# <strong>🤖 ChatGPT 基础教程</strong>
+# <strong>✍🏻 Prompt提示指南</strong>
+## 📝 Prompt简介
+ChatGPT 是由 OpenAI 训练的一款大型语言模型，能够和你进行任何领域的对话。它能够生成类似于人类写作的文本。您只需要给出提示或提出问题，它就可以生成你想要的东西。 在此页面中，您将找到可与 ChatGPT 一起使用的各种提示。本 ChatGPT Prompt 知识库将列举相关网站、合集，你可以访问它们，学习更多。在“提示精选”中，我们并不会穷尽所有 ChatGPT Prompt，而是一些实用、有趣、具有启发意义的，能够让你举一反三，学会形成一套自己的方法论的。希望对你有用！
+
+## 官方应用
+
+[https://platform.openai.com/playground](https://platform.openai.com/playground)
+
+## [Prompt 是什么](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#prompt-%E6%98%AF%E4%BB%80%E4%B9%88)
+
+## [Prompt 能干什么](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#prompt-%E8%83%BD%E5%B9%B2%E4%BB%80%E4%B9%88)
+
+## [Prompt 未来能做什么](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#prompt-%E6%9C%AA%E6%9D%A5%E8%83%BD%E5%81%9A%E4%BB%80%E4%B9%88)
+
+
