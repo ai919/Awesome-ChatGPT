@@ -1008,3 +1008,38 @@ Please pay attention:
 - 500 条对作家有帮助的 Prompts
 
   - [https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov)-
+ 
+## 应用与站点
+
+名称 | 标签 | 语言 | 说明 | 推荐度 | 截图
+-- | -- | -- | -- | -- | --
+[PromptVibes：拥有大量chatGPT提示](https://www.promptvibes.com) | 综合,订阅 | 英文 |   | 3 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/33d02c5a-7fe2-4ea2-8d41-9cafa09b0e5e)
+[Datafit.ai](https://datafit.ai) | 综合,插件,排行 | 英文 |   | 5 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/b49416a9-9631-4722-b04f-931d8f53b646)
+[Learning Prompt](https://learningprompt.wiki) | 综合,教程 | 中文 |   | 5 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/a4a9d905-1535-4592-8ac0-df841a7def97)
+[ChatGPT 个人使用场景分享](https://hubeiqiao.notion.site/ChatGPT-c13f60d4adc14eb0ae73a58dca3a54af) | 教程 | 中文 |   | 4 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/bfe2c0aa-30b1-4354-8185-a742989560b5)
+[Flowgpt：与Chatgpt融合度非常高的Prompt应用](https://flowgpt.com) | 综合,社区 | 英文,中文 |   | 5 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/080ac0a5-089c-4150-b645-f51309b02eb4)
+[OpenAI platform](https://platform.openai.com/examples) | 综合,官方 | 英文 | 官方应用 | 3 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/e57d1abe-7bd7-4cab-856b-c250242f39e3)
+[dust](https://dust.tt) | 应用 | 英文 | 设置您的提供商，探索下面的示例应用程序或创建您的第一个应用程序以开始使用。 | 3 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/98227444-0175-40fd-82bd-ee5ffab999e8)
+[Everyprompt：GPT-3 的游乐场](https://www.everyprompt.com) | 应用 | 英文 | 这是一个探索和使用最新语言模型的地方。在这里可以构建和共享使用 GPT-3 的工具。它包括有用的功能，如文件夹、团队支持和 CI/CD。 | 3 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/5e6cf2b3-ee41-442a-974e-44813a027667)
+[dyno](https://trydyno.com) | 应用 | 英文 | 快速开发、迭代和测试 LLM 提示 | 3 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/dcc11248-78a2-49de-901b-76219cce8a77)
+[fresns：ChatGPT 引导语](https://prompts.fresns.cn) | 应用 | 中文 | 分门别类的引导语大全 | 5 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/3a93d5fa-7c43-4e1b-a4fa-0e2c32eb6ec5)
+[openprompt](https://openprompt.co) | 应用 | 英文 | 各种提示，直接使用进行聊天，创建自己的提示 | 4 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/4273a669-30b2-4708-86a8-0079c1a7b7ac)
+[explainthis：ChatGPT 指令大全](https://www.explainthis.io/zh-hans/chatgpt) | 应用,综合 | 中文 | 本站提供数百个精炼过的指令语句 (提示词)，让你充分发挥 ChatGPT 的强大功能 | 4 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/32fd3063-2e9b-41da-ab8a-54282962e71f)
+[candobear：1001个GPT实例](https://gpt.candobear.com/prompt) | 综合 | 中文 | Prompt 大全：1001个GPT实例，启发你的GPT之旅写一份用于评奖的研究总结报告 | 3 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/51947a3b-61d8-4d0c-b2ea-7f1c05007ff3)
+[ChatGPT cheatsheet](https://quickref.me/chatgpt) | 教程,综合 | 英文 |   | 3 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/503e81c0-8975-42b3-ac78-83228781093a)
+[ChatGPT Shortcut](https://www.aishort.top) | 综合,排行 | 中文,英文 | ChatGPT Shortcut 提供了快捷指令表，可以快速筛选和搜索适用于不同场景的提示词，帮助用户简化使用流程。 | 4 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/b9795cca-3f0d-471e-8c27-5cf1eca565f5)
+[提示语自动生成 ChatGPT Prompt Generator](https://huggingface.co/spaces/merve/ChatGPT-prompt-generator) | 应用 | 中文,英文 | 如果感觉自己写的 prompt 不够好， 可以让模型帮你写，然后再输入 ChatGPT . | 5 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/7259c7b5-9900-40b2-a95e-0fcf018b49e6)
+[aigenprompt：生成AI绘图灵感](https://www.aigenprompt.com/zh-CN) | 应用 | 中文 | 输入简单的词，这个工具会帮你优化成适合生成带有艺术感画面的一连串prompt，可以在大部分绘画工具使用。 | 3 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/e6b25a8d-d558-4655-a50e-c40b20118f9a)
+[jailbreakchat：越狱聊天示例](https://www.jailbreakchat.com) | 应用 | 英文 | 从越狱到提示工程再到提示新闻。8,000 多人在 Google、Tesla、Microsoft、a16z 等地方阅读。 | 5 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/4c3dcf73-08f6-426c-9850-6b27553485fd)
+[ChatGPT 智能提示](https://chrome.google.com/webstore/detail/chatgpt-prompt-genius/jjdnakkfjnnbbckhifcfchagnpofjffo) | 插件 | 英文 | 发现、分享、导入并使用最佳的ChatGPT提示，保存您的聊天记录到本地（前身为ChatGPT历史记录） | 3 | ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/eec1917e-5d5e-445e-bfba-5512aa613b0c)
+
+### 其它
+
+名称 | 说明 | 标签
+-- | -- | --
+[Agent.so Agent.so](https://www.agent.so/) | 多功能平台，可协助您运用AI撰写文本和代码、解决问题以及尽情娱乐等等！我们的平台由150多个独特训练模型提供支持，新AI应用商店即将发布200多个应用程序。初次注册会员可免费畅所欲言并获得100积分以在应用商店兑换商品。 | 写作,聊天,代理,免费,收费,综合
+[ID-Assist™](https://id-assist.co/) | 电子教育学习和课堂培训的“教学故事板自动化工具”可以帮助教学设计人员自动创建课程大纲、学习目标、评估和情境等元素。 | 学习,插件,Chrome,免费
+[Writers brew AI](https://writersbrew.app/) | 适用于各种应用程序和浏览器的AI助手，能够书写、提升、回答、总结、解释和翻译。此外，还内置OCR引擎，可以提取文本并生成AI文本。 | 写作,收费,插件,APP
+  |   |  
+ 
+# 💡 ChatGPT应用
