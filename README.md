@@ -1114,3 +1114,17 @@ Free ChatGPT Site List，一个专门收集分享 ChatGPT 镜像站点的网站�
 [forefront](https://chat.forefront.ai/) | 网页 | 免费 | 不支持API | 🪜 | 0 | 5
 [ora 自建角色](https://ora.ai/) | 网页 | 免费 | 不支持API | 🪜 | 0 | 4
 [vercel.ai 多模态](https://play.vercel.ai/) | 网页 | 免费 | 不支持API | 🪜 | 0 | 4
+
+## 平替平台——客户端
+
+名称 | 客户端 | 平台 | 推荐度 | 标签 | 说明 | 免费 | API | 免翻
+-- | -- | -- | -- | -- | -- | -- | -- | --
+[awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) | 客户端 | Win,Mac,Linux | 3 | GitHub,英文 | “Awesome ChatGPT Prompts”存储库！这是一组用于 ChatGPT 模型的提示示例。 | 免费 | API | 免翻
+[ChatGPT Android](https://github.com/skydoves/chatgpt-android) | 客户端 | Android | 3 | GitHub,英文 | ChatGPT Android是使用Stream Chat SDK for Compose构建的，用于实现消息系统。 | 免费 | API | 🪜 
+[Chat AI Desktop App](https://github.com/sonnylazuardi/chat-ai-desktop) | 客户端 | Win,Mac,Linux | 5 | GitHub,英文 | 使用 tauri 和 rust 的非官方开源 Chat AI 桌面应用程序，适用于 mac、windows 和 linux 菜单栏。 | 免费 | API | 🪜
+[ChatGPT for desktop](https://github.com/vincelwt/chatgpt-mac) | 客户端 | Mac | 4 | GitHub,英文 | 这是一个简单的应用程序，可让 ChatGPT 在您的菜单栏中生效。 您可以使用 Cmd+Shift+G (Mac) 或 Ctrl+Shift+G (Win) 从任何地方快速打开它。 | 免费 | 不支持API | 🪜
+[ChatGPT 桌面应用（Mac, Windows and Linux）](https://github.com/lencx/ChatGPT/blob/main/README-ZH_CN.md) | 客户端 | Win,Mac,Linux | 5 | GitHub,英文,中文 | 跨平台: macOS Linux Windows 导出 ChatGPT 聊天记录 (支持 PNG, PDF 和生成分享链接) 主窗口和系统托盘支持自定义 URL，将任意网站包装成一个桌面应用 | 免费 | 不支持API | 🪜
+[Pake：Poe网页版本的桌面端](https://github.com/tw93/Pake/blob/master/README_CN.md) | 客户端 | Win,Mac,Linux | 4 | GitHub,英文,中文 | Poe 是一个汇集各类 AI 的工具，能体验 GPT4 / Claude 的能力，反应速度很快，充值也方便些，下载在常见应用。 | 免费 | 不支持API | 免翻
+[POE手机客户端](https://poe.com/) | 客户端 | Android,iOS | 5 | 中文,英文 | Poe 是一个汇集各类 AI 的工具，能体验 GPT4 / Claude 的能力，反应速度很快，充值也方便些，下载在常见应用。 | 免费,收费 | 不支持API | 🪜 | HK$1599.00/yr
+[Chatbox：支持 Windows、Mac 和 Linux](https://github.com/Bin-Huang/chatbox/blob/main/README-CN.md) | 客户端 | Win,Mac,Linux | 4 | 中文,英文,GitHub | 开源的 ChatGPT API (OpenAI API) 桌面客户端，Prompt 的调试与管理工具，支持 Windows、Mac 和 Linux | 免费 | API | 免翻
+[ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop/blob/master/README-CN.md) | 客户端 | Win,Mac,Linux | 3 | 英文,中文,GitHub | 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。 | 免费 | API | 免翻
