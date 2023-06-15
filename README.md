@@ -1087,3 +1087,30 @@ Free ChatGPT Site List，一个专门收集分享 ChatGPT 镜像站点的网站�
 
 ### ⭐️⭐️[FreeChatGPTSiteList](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md)
 
+## 平替平台——网页端
+
+名称 | 类型 | 是否收费 | API | 🪜 | 费用 | 推荐度
+-- | -- | -- | -- | -- | -- | --
+[typingmind](https://typingmind.com/) | 网页 | 收费,免费 | API | 🪜 | $39永久 | 4
+[ChatHub](https://github.com/chathub-dev/chathub/blob/main/README_ZH-CN.md) | 插件 | 收费,免费 | API | 免翻 | $15永久 | 5
+[FutureDesk：改善您与ChatGPT的交互方式](https://www.futuredesk.io/) | 网页 | 免费 | API | 免翻 | 0 | 4
+[ChatABC：一款功能强大的聊天机器人平台](https://chatabc.ai/) | 网页 | 收费,免费 | API | 免翻 | $29永久 | 4
+[谷歌bard](https://bard.google.com/?hl=en) | 网页 | 免费 | API | 🪜 | 0 | 5
+[freegpt：推荐 稳定](https://freegpt.one/) | 网页 | 免费 | 不支持API | 🪜 | 0 | 5
+[POE：最好的集成平台](https://poe.com/sage) | 网页 | 免费,收费 | 不支持API | 🪜 | HK$1599.00/yr | 5
+[nextweb：用自己的api使用chatgpt](https://chatgpt.nextweb.fun/) | 网页 | 免费 | API | 免翻 | 0 | 4
+[copy.ai：从编写任务开始，聊天可以完成剩下的工作](https://app.copy.ai/) | 网页 | 免费,收费 | 不支持API | 🪜 | $36 /mo | 4
+[openprompt](https://openprompt.co/) | 网页 | 免费 | 不支持API | 免翻 | 0 | 4
+[Bing](https://www.bing.com/search?form=MY02C1&OCID=MY02C1&q=Bing+AI&showconv=1) | 网页 | 免费 | 不支持API | 🪜 | 0 | 5
+[BingGPT：NewBing客户端](https://github.com/dice2o/BingGPT) | 客户端 | 免费 | 不支持API | 免翻 | 0 | 5
+[YouChat：竞品，登录即用](https://you.com/) | 网页 | 免费 | 不支持API | 免翻 | 0 | 2
+[phind：竞品，无需登录使用](https://phind.com/) | 网页 | 免费 | 不支持API | 免翻 | 0 | 2
+[Chatsonic：竞品，登录即用，有额度](https://app.writesonic.com/) | 网页 | 免费,收费 | 不支持API | 免翻 | 0 | 2
+[perplexity：竞品，能够提供信息的来源](https://www.perplexity.ai/) | 客户端 | 免费 | 不支持API | 免翻 | 0 | 3
+[多模态聊天机器人: genmo](https://www.genmo.ai/) | 网页 | 免费,收费 | 不支持API | 免翻 | 0 | 4
+[forefront.ai](https://chat.forefront.ai/) | 网页 | 免费 | 不支持API | 🪜 | 0 | 5
+[Character.AI：丰富的角色AI应用平台](https://beta.character.ai/) | 网页 | 免费,收费 | 不支持API | 免翻 | $9.99/月 | 5
+[theb.ai](https://chatbot.theb.ai/#/chat/1002) | 网页 | 免费 | 不支持API | 🪜 | 0 | 5
+[forefront](https://chat.forefront.ai/) | 网页 | 免费 | 不支持API | 🪜 | 0 | 5
+[ora 自建角色](https://ora.ai/) | 网页 | 免费 | 不支持API | 🪜 | 0 | 4
+[vercel.ai 多模态](https://play.vercel.ai/) | 网页 | 免费 | 不支持API | 🪜 | 0 | 4
