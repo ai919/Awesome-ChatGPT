@@ -820,3 +820,70 @@ Please pay attention:
 ## 👨 [赋予身份](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E8%B5%8B%E4%BA%88%E8%BA%AB%E4%BB%BD)
 
 - 其实前面很多案例就是在赋予身份，这里着重讲一下，当你需要让它扮演一种身份进行工作时的情况。ChatGPT 如何获得身份？它是一种语言模型，可以扮演教师、律师、设计师、翻译等各种角色，甚至可以扮演 CEO、女朋友等其他角色。下面简单举几个例子，你可以举一反三：（注意：赋予身份尽量不要只是告诉 GPT 它是谁，应当尽量清晰地描述它的身份、职责、流程、标准、态度、语气等）
+
+## 💬 [担任客服工作](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E6%8B%85%E4%BB%BB%E5%AE%A2%E6%9C%8D%E5%B7%A5%E4%BD%9C)
+
+- 客户满意度大大提高 特别是涉及海外的中国公司,客服工作非常重要。由于语言和文化差异,许多国外客户可能无法流利地使用中文进行交流。这时,ChatGPT 就可以派上用场。 我们可以让 ChatGPT 耐心回答客户疑问,就像客服一样。甚至利用它自动翻译,将客户问题翻译成英文,然后用英文回答,准确率极高。不仅可以节省人力成本,而且还可以提高客户满意度。
+
+## 💼 [市场调研](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E5%B8%82%E5%9C%BA%E8%B0%83%E7%A0%94)
+
+- 为了促进企业产品的销售，市场调研是关键的一步。我们需要获得有关目标市场的文化、消费习惯和竞争对手等信息，以制定更好的营销策略。ChatGPT 可帮助我们快速获得这些信息。例如，如果我们需要创建市场调查问卷，我们不需要市场专员来完成，只需交给 ChatGPT，它不到 1 分钟就会为我们提供出色的答案。
+
+## 👨 [营销经理](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E8%90%A5%E9%94%80%E7%BB%8F%E7%90%86)
+
+- 协助我们完成营销工作 通过利用 ChatGPT，我们可以迅速地生成各种语言版本的营销文案和宣传资料。它的强大之处在于，只需提供产品介绍和关键词等信息，它就能在 1 分钟内生成贴近完美的广告文案，为企业主节省文案成本，提高效率。
+
+## 📺 [广告文案](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E5%B9%BF%E5%91%8A%E6%96%87%E6%A1%88)
+
+- ChatGPT 可协助创造广告文案和海报，对推广品牌的建设有所帮助。通常，一个产品都有一个主要宣传语，以阐述设计承诺或展现产品特色。我们可以运用 ChatGPT 直接创造文案，寻求其是否有出彩之处。以咖啡为例，我们可以如何得到满意的文案和宣传海报呢？
+
+## ⭐️ [自动化短视频](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%EF%B8%8F-%E8%87%AA%E5%8A%A8%E5%8C%96%E7%9F%AD%E8%A7%86%E9%A2%91)
+
+- 1：介绍你的媒体平台名称 2：训练 ChatGPT 以了解你的目标媒体渠道。3：说明目标受众4：让 ChatGPT 开始做选题5：要求 ChatGPT 写出标题6：让它开始写文案7：将 ChatGPT 的文案生成视频
+
+## 🔑 [编写 Ai 绘图关键词](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E7%BC%96%E5%86%99-ai-%E7%BB%98%E5%9B%BE%E5%85%B3%E9%94%AE%E8%AF%8D)
+
+- 想利用 Midjourney 制作美观的 AIGC 图片，但是因词汇匮乏和专业知识不足，无法将自己的想法清晰地传达给 Midjourney。这时，可以充分利用 ChatGPT 的能力，通过 GPT 来完善 idea 的细节文字。
+
+## 💪🏼 高级参考教程
+
+### [思维链 Chain of Thought Prompting](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E6%80%9D%E7%BB%B4%E9%93%BE-chain-of-thought-prompting)
+
+- Jason Wei 等作者对思维链的定义是一系列的中间推理步骤（ a series of intermediate reasoning steps ）。目的是为了提高大型语言模型（LLM）进行复杂推理的能力。
+
+### [零样本思维链 Zero-shot-CoT](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E9%9B%B6%E6%A0%B7%E6%9C%AC%E6%80%9D%E7%BB%B4%E9%93%BE-zero-shot-cot)
+
+- 正如在提示中存在 few-shot 和 zero-shot 一样，CoT 也有一个 zero-shot 的版本。有了 Zero-shot-CoT，我们就不需要为不同的复杂推理问题精心设计具体的任务步骤；在回答每一个问题之前，我们只需添加一个简单的提示 "Let’s think step by step"，以引导模型逐步思考。最重要的是，Zero-shot-CoT 是通用的，与任务无关的。
+
+### [知识提示 Knowledge Prompting](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E7%9F%A5%E8%AF%86%E6%8F%90%E7%A4%BA-knowledge-prompting)
+
+- 纳入外部知识是否能促进常识性推理仍然是一个开放的问题。一系列的工作表明，外部知识的整合可以提高模型的任务表现。知识提示（ Knowledge Prompting ）不需要对知识整合的具体任务进行监督，也不需要访问结构化的知识库。相反，知识提示可以直接从语言模型中产生知识，然后在回答问题时将这些知识作为附加输入。
+
+### [ChatGPT Prompt Framework](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#chatgpt-prompt-framework)
+
+- 在使用这个 prompt 框架时，我们可以根据不同的场景和任务，灵活地填写相应的内容，以达到最好的效果。同时，我们也可以结合其他的 prompt 技巧，例如增加 role 相关的内容、使用特殊符号等，来进一步提高 ChatGPT 的处理效率和准确率。
+
+### [CRISPE Prompt Framework](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#crispe-prompt-framework)
+
+- 在使用这个 prompt 框架时，我们需要根据不同的场景和任务，灵活地填写相应的内容，以达到最好的效果。同时，我们也可以结合其他的 prompt 技巧，例如增加 role 相关的内容、使用特殊符号等，来进一步提高 ChatGPT 的处理效率和准确率。
+
+### [Zero-Shot Prompts](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#zero-shot-prompts)
+
+- 通过这个 prompt，我们可以使用 Zero-Shot Prompting 的方法，让 ChatGPT 生成关于该电影故事情节的摘要，而不需要进行电影相关的专门训练。同时，我们可以根据具体的需求和提示内容，灵活地填写相应的信息，以达到最好的效果。
+
+### [Few-Shot Prompting](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#few-shot-prompting)
+
+- 通过这个 prompt，我们可以使用 Few-Shot Prompting 的方法，让 ChatGPT 在有限的示例情况下，生成关于该主题的故事情节。相比于 Zero-Shot Prompting，Few-Shot Prompting 可以使用更少的示例，以生成更准确和详细的结果。
+
+### [Self-Consistency](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#self-consistency)
+
+- Self-Consistency（自洽性）是一种模型评估技术，可以帮助我们判断模型的优劣。它通过生成多个思维链，然后选取最多数答案作为最终结果，来提高模型的准确率和可靠性。具体来说，我们可以使用以下的方法来实现 Self-Consistency：
+
+### [PAL Models](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#pal-models)
+
+- PAL Models（Program-Aided Language Models）是一种高级的自然语言处理技术，可以帮助我们更好地处理复杂或特殊的任务和领域。它通过将程序代码和自然语言模型相结合，来实现更加准确和可靠的结果。
+
+### [OpenAI Playground 使用方法](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#openai-playground-%E4%BD%BF%E7%94%A8%E6%96%B9%E6%B3%95)
+
+- 如果你想要更好地了解 OpenAI 的 API，同时又想避免 ChatGPT 不可用的情况，那我建议你使用 OpenAI Playground。它是一个在线的 OpenAI API 环境，可以让你直接使用 OpenAI API，进行各种自然语言处理任务的测试和开发。
+
