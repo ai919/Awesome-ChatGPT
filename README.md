@@ -1043,3 +1043,47 @@ Please pay attention:
   |   |  
  
 # 💡 ChatGPT应用
+
+ChatGPT 应用既是基于 OpenAI 的 ChatGPT 的各种应用。
+
+我们分别推荐
+
+- 基于 ChatGPT 的部署搭建类应用推荐及教程
+- ChatGPT 的平替以及相关平台
+- ChatGPT 相关的应用插件，尤其是浏览器的插件
+- 以及一些试用的教程
+
+你可以通过后面的目录进行浏览。
+
+## 📚 应用合集网站
+
+名称 | 标签 | 说明 | 推荐度
+-- | -- | -- | --
+[gptdemo：ChatGPT生成式 应用程序](https://www.gptdemo.net/) | 提交,社区,最新 | 分门别类，可以提交，有社区 | 4
+[ChatGPT Apps - Ranking](https://ossinsight.io/collections/chat-gpt-apps/) | 排名 | Last 28 days / Monthly ranking of repos in this collection by stars, pull requests, issues. Historical Ranking by Popularity. | 5
+[GPT工具箱](https://gpt.candobear.com/toolbox) | 排名 | 如何使用GPT工具，增强你原有的工作流 | 2
+
+## 🌐 镜像站点集群分享
+
+### [⭐️Free ChatGPT Site List](https://cc.ai55.cc/) 
+
+Free ChatGPT Site List，一个专门收集分享 ChatGPT 镜像站点的网站，为用户准备了众多免费好用的 ChatGPT 镜像站点，而且打上了标签，哪些是使用稳定、哪些是免费付费的、哪些是需要特殊网络等等标签，非常贴心，对于需要使用 ChatGPT 的同学而有一点门槛的同学可以找一个合适的 ChatGPT 镜像站点使用。GitHub 地址：[https://github.com/xx025/carrot](https://github.com/xx025/carrot)
+
+### [⭐️⭐️⭐️ 免费的共享 ChatGPT 账号](https://chat-shared.zhile.io/shared.html)
+
+免费的共享 ChatGPT 账号，能够帮助目前身处国内无法顺畅使用 ChatGPT 的同学进行畅通无阻的学习与使用。这个共享账号的背后，有几十位热心的网友提供自己的 Key，创建了数百个账号，真是开源分享的精神在继续呀！如果您有需要，可以试试这个工具。当然，如果您有能力，在确保网络环境畅通和安全的情况下，使用自己的账号可能更稳妥哦~
+
+### [⭐️⭐️⭐️lzwme/chatgpt-sites](https://github.com/lzwme/chatgpt-sites) 
+
+众所周知，国内访问并体验 ChatGPT 拥有一定的门槛，主要受限于网络无法访问、账号无法注册等条件。然而对于突破该约束条件的同学来说，可以很轻松的使用开源程序搭建基于 OPENAI API 的在线应用网站。 本仓库旨在搜集整理国内用户可访问的基于 OPENAI API 开发的在线应用列表，以供条件受限的同学参考使用。
+
+### [⭐️Free ChatGPT Site List ](https://github.com/xx025/carrot)
+
+这儿为你准备了众多免费好用的 ChatGPT 镜像站点
+
+### ⭐️[Awesome Free ChatGPT](https://github.com/LiLittleCat/awesome-free-chatgpt) 
+
+镜像网站列表，以及更多免费资源，持续更新。
+
+### ⭐️⭐️[FreeChatGPTSiteList](https://github.com/xxxily/hello-ai/blob/main/home/FreeChatGPTSiteList.md)
+
