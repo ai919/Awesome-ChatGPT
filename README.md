@@ -87,3 +87,27 @@
 - [⭐️ 什么是 ChatGPT 越狱](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#%EF%B8%8F-%E4%BB%80%E4%B9%88%E6%98%AF-chatgpt-%E8%B6%8A%E7%8B%B1)
 - [⭐️ 生成音乐](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#%EF%B8%8F-%E7%94%9F%E6%88%90%E9%9F%B3%E4%B9%90)
 
+
+## 🔤 热点解释
+- [GPT-4](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#gpt-4)
+- [Agents](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#agents)
+- [Auto-GPT](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#auto-gpt)
+- [Baby AGI](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#baby-agi)
+- [AgentGPT](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#agentgpt)
+- [🔍 检测 AI 生成的文本](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#-%E6%A3%80%E6%B5%8B-ai-%E7%94%9F%E6%88%90%E7%9A%84%E6%96%87%E6%9C%AC)
+
+## 📚 课程教程分享
+- [人工智能精华课程（合集）](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%B2%BE%E5%8D%8E%E8%AF%BE%E7%A8%8B%E5%90%88%E9%9B%86)
+- [⭐️ 免费 GPT-4 帮你轻松完成 3000 字博文（视频）](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%EF%B8%8F%E5%85%8D%E8%B4%B9-gpt-4-%E5%B8%AE%E4%BD%A0%E8%BD%BB%E6%9D%BE%E5%AE%8C%E6%88%90-3000-%E5%AD%97%E5%8D%9A%E6%96%87%E8%A7%86%E9%A2%91)
+- [ChatGPT 个人使用场景分享（长文）](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#chatgpt-%E4%B8%AA%E4%BA%BA%E4%BD%BF%E7%94%A8%E5%9C%BA%E6%99%AF%E5%88%86%E4%BA%AB%E9%95%BF%E6%96%87)
+- [教程 | ChatGPT 完全上手指南（长文）](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%E6%95%99%E7%A8%8B--chatgpt-%E5%AE%8C%E5%85%A8%E4%B8%8A%E6%89%8B%E6%8C%87%E5%8D%97%E9%95%BF%E6%96%87)
+- [想玩好 ChatGPT？不妨看看这篇文章。（图文）](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%E6%83%B3%E7%8E%A9%E5%A5%BD-chatgpt%E4%B8%8D%E5%A6%A8%E7%9C%8B%E7%9C%8B%E8%BF%99%E7%AF%87%E6%96%87%E7%AB%A0%E5%9B%BE%E6%96%87)
+- [如何利用 chatGPT 学英语？（图文）](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%E5%A6%82%E4%BD%95%E5%88%A9%E7%94%A8-chatgpt-%E5%AD%A6%E8%8B%B1%E8%AF%AD%E5%9B%BE%E6%96%87)
+- [中小学教师 ChatGPT 的 23 种用法（图文）](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E5%B8%88-chatgpt-%E7%9A%84-23-%E7%A7%8D%E7%94%A8%E6%B3%95%E5%9B%BE%E6%96%87)
+- [英文视频](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%E8%8B%B1%E6%96%87%E8%A7%86%E9%A2%91)
+- [中文视频](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%E4%B8%AD%E6%96%87%E8%A7%86%E9%A2%91)
+- [英文图文](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%E8%8B%B1%E6%96%87%E5%9B%BE%E6%96%87)
+- [中文图文](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%E4%B8%AD%E6%96%87%E5%9B%BE%E6%96%87)
+- [中文开发指南](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%E4%B8%AD%E6%96%87%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97)
+- [The Ultimate GPT-4 Guide](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#the-ultimate-gpt-4-guide)
+- [更多请进入wiki]](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#-%E8%AF%BE%E7%A8%8B%E6%95%99%E7%A8%8B%E5%88%86%E4%BA%AB)
