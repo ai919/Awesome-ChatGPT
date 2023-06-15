@@ -68,7 +68,7 @@
 
 
 
-#<strong>🤖 ChatGPT 基础教程</strong>
+# <strong>🤖 ChatGPT 基础教程</strong>
 
 - [❓ ChatGPT 是什么](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#-chatgpt-%E6%98%AF%E4%BB%80%E4%B9%88)
 - [💡 ChatGPT 如何使用](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%96-ChatGPT%E5%9F%BA%E7%A1%80%E6%95%99%E7%A8%8B#-chatgpt-%E5%A6%82%E4%BD%95%E4%BD%BF%E7%94%A8)
