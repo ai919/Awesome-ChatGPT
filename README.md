@@ -1203,3 +1203,7 @@ Free ChatGPT Site List，一个专门收集分享 ChatGPT 镜像站点的网站�
 [KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 应用 | Chrome,Web | 免费,无广告 | 5 | 这是一款开源的、免费的、高效的ChatGPT畅聊插件，它可以让你的聊天无比丝滑，一劳永逸摆脱各种报错和警告，省去足足10个多余步骤，释放双手不再刷新网页，并且作者还在持续更新更多的增强功能，包括取消审计、克隆对话、净化页面、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等等。
 [TaskMatrix 添加图片能力](https://github.com/microsoft/TaskMatrix) | 应用 |   | 免费 | 4 | 1.支持文生图2.支持文改图
 [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | 自动化 |   | 免费,API | 5 | Auto-GPT 是一个实验性开源应用程序，展示了 GPT-4 语言模型的功能。该程序由 GPT-4 驱动，将 LLM 的“思想”链接在一起，以自主实现您设定的任何目标。作为 GPT-4 完全自主运行的首批示例之一，Auto-GPT 突破了 AI 的可能性界限。
+
+## 💸 副业赚钱
+[见wiki部分](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%A1-ChatGPT%E5%BA%94%E7%94%A8#-%E5%89%AF%E4%B8%9A%E8%B5%9A%E9%92%B1)
+
