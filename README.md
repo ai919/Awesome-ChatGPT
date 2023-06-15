@@ -1158,3 +1158,48 @@ Free ChatGPT Site List，一个专门收集分享 ChatGPT 镜像站点的网站�
 [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | Web | API,GitHub | 5 | Auto-GPT 是一个实验性开源应用程序，展示了 GPT-4 语言模型的功能。该程序由 GPT-4 驱动，将 LLM 的“思想”链接在一起，以自主实现您设定的任何目标。作为 GPT-4 完全自主运行的首批示例之一，Auto-GPT 突破了 AI 的可能性界限。
 [AgentGPT](https://github.com/reworkd/AgentGPT) | Web | 中文,GitHub,API | 5 | AgentGPT 允许您配置和部署自治 AI 代理。为您自己的自定义 AI 命名，让它开始任何可以想象的目标。它将尝试通过思考要完成的任务、执行任务并从结果中学习来实现目标.
 [Pandora](https://github.com/pengzhile/pandora) | Web | 中文,GitHub,API | 4 | 潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。 潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
+
+## 插件应用推荐
+
+名称 | 分类 | 支持 | 免费 | 推荐 | 说明
+-- | -- | -- | -- | -- | --
+[Glarity Summary：ChatGPT网页总结插件](https://glarity.app/zh-hans) | 总结 | Chrome,Edge,Safari,FireFox,Opera | 免费,无广告 | 5 | 使用此扩展程序可以从 Chrome 工具栏访问 ChatGPT、查看 YouTube 视频的文字记录并总结 YouTube 视频。
+[Sidebar：对任何网页调用ChatGPT，实现增强阅读](https://chatgpt-sidebar.com/) | 阅读 | Chrome,Edge | 免费,无广告 | 5 | 选择任何文本，解释它，翻译它，总结它或重写它，使用 ChatGPT 边栏做任何事情！
+[ShareGPT：便捷分享GPTChat的服务](https://sharegpt.com/) | 分享 | Chrome | 免费,无广告 | 5 | 一键分享您最疯狂的 ChatGPT 对话。
+[ChatGPT for Google](https://github.com/wong2/chatgpt-google-extension) | 翻译 | Chrome,Opera | 免费,无广告,API | 5 | 一个浏览器扩展，用于与 Google（和其他搜索引擎）结果一起显示 ChatGPT 响应
+[ChatHub - All-in-one chatbot client](https://chrome.google.com/webstore/detail/chathub-all-in-one-chatbo/iaakpnchhognanibcahlpcplchdfmgma/related?utm_source=website) | 助手 | Chrome,Edge | 免费,收费,无广告,API | 5 | 同时使用ChatGPT, Bing, Bard和更多机器人 ChatHub是一个chatbot聚合客户端
+[ChatGPT for Chrome & YouTube Summary](https://chrome.google.com/webstore/detail/chatgpt-for-chrome-youtub/cdjifpfganmhoojfclednjdnnpooaojb) | 助手 | Chrome | 免费,无广告 | 4 | 使用此扩展程序可以从 Chrome 工具栏访问 ChatGPT、查看 YouTube 视频的文字记录并总结 YouTube 视频。
+[ChatGPT Export and Share](https://github.com/liady/ChatGPT-pdf) | 分享 | Chrome,FireFox | 免费,无广告 | 4 | 用于将 ChatGPT 历史下载为 PNG、PDF 或创建可共享链接的 Chrome 扩展
+[Superpower for ChatGPT](https://chrome.google.com/webstore/detail/superpower-for-chatgpt/amhmeenmapldpjdedekalnfifgnpfnkc) | 助手 | Chrome | 免费,无广告 | 3 | ChatGPT 与超级大国！在本地同步/搜索历史记录、创建文件夹、导出所有聊天记录、固定消息、访问数以千计的提示
+[WebChatGPT](https://github.com/qunash/chatgpt-advanced/) | 助手,搜索 | Chrome,Edge,FireFox | 免费,无广告 | 5 | 此浏览器adds web access对ChatGPT 的扩展功能。从聊天机器人获得更多相关和最新的答案！
+[Talk-to-ChatGPT](https://github.com/C-Nedelcu/talk-to-chatgpt) | 助手,语音 | Chrome,Edge | 免费,无广告 | 4 | Talk-to-ChatGPT是 Google Chrome 和 Microsoft Edge 的扩展，允许用户使用他们的语音（语音识别）与 ChatGPT AI 交谈，并通过语音（文本到语音）聆听机器人的回答，而不仅仅是通过打字。
+[RayCast 扩展（非官方）](https://github.com/abielzulio/chatgpt-raycast) | 助手 | APP | 免费,无广告,API | 4 | 直接从您的命令栏中询问您想要的任何内容，并毫不费力地获得 AI 生成的答案。
+[AI Text Classifier](https://platform.openai.com/ai-text-classifier) | 助手 | Web | 免费 | 4 | OpenAI官方AI检测工具
+[Read Pilot AI 文章总结应用](https://readpilot.vercel.app/) | 阅读 | Web | 免费,无广告 | 3 | 智能阅读在线文章 阅读 Pilot 分析在线文章并为您生成问答卡片。
+[ChatDOC结合ChatGPT快速分析PDF](https://chatdoc.com/) | 阅读,总结 | Web | 免费,收费,无广告 | 3 | AI技术进步越来越人们都开始寻求AI工具来提高生产力。今天要介绍的这款ChatDOC AI工具可以让使用者上传自己的PDF文档,并让ChatGPT协助我们快速分析内容。
+[Releasenote.ai：GPT-3驱动的演讲稿生成器](https://releasenote.ai/) | 助手,写作 | Web | 免费,收费,无广告 | 2 | Releasenote.ai是一个非常实用、高效的演讲稿生成器，能够帮助您快速制作引人入胜的演讲稿。
+[magical：人工智能操作系统帮助你的团队高效安排日程](https://magical.so/) | 助手 | Chrome | 免费,收费,无广告 | 2 | 你可以直接从浏览器选项卡控制日程安排过程，并使用先进的人工智能来建议首选的会议时间，议程草案等。此外，magic还集成了Zoom、Google Meet和Notion等多种工具，为忙碌的人士提供了完美的解决方案。
+[sharegpt：一键分享您最疯狂的 ChatGPT 对话](https://github.com/domeccleston/sharegpt) | 助手,分享 | Chrome | 免费,无广告 | 4 | ShareGPT 是一个开源的 Chrome 扩展程序，您只需单击一下即可分享您最疯狂的 ChatGPT 对话。
+[OpenGPT：一个在线创建AI应用的网站](https://open-gpt.app/) | 应用 | Web | 免费,收费,无广告 | 4 | 网站内置了网友创建的 1911 款应用可以体验，你同时可以把网友的创意用于自己的 ChatGPT
+[cognosys：免费版的AutoGPT](https://app.cognosys.ai/) | 应用,自动化 | Web | 免费,收费,无广告 | 5 | 可以理解成免费版的AutoGPT，功能非常强大
+[UseChatGPT.AI：在网络上无处不在](https://app.usechatgpt.ai/?invite=pApe3vV5) | 助手,应用 | Chrome | 免费,收费,无广告,API | 5 | 在任何网站上使用ChatGPT（插件和GPT-4）、Bard、Bing和Claude，无需复制粘贴。
+[ChatGPT Exporter：用于导出ChatGPT聊天记录](https://github.com/pionxzh/chatgpt-exporter) | 分享 | Edge,Chrome,FireFox | 免费 | 3 | 轻松分享和查看您的对话。用于导出ChatGPT聊天记录的 GreasyFork 脚本。支持的格式：文本PNG（整页截图！）
+[AIPRM：终极省时工具](https://www.aiprm.com/) | 阅读,分享,助手,搜索,提示 | Chrome | 免费 | 4 | ChatGPT 中的一键式提示，用于搜索引擎优化、营销、文案写作、生产力等。
+[BingGPT：NewBing客户端](https://github.com/dice2o/BingGPT) | 应用 | APP | 免费 | 5 | 新必应人工智能聊天的桌面应用程序
+[DocsGPT：开源文档助手](https://github.com/arc53/docsgpt) | 应用,助手,阅读 | Web,Docker,Chrome | 免费 | 4 | DocsGPT是一种尖端的开源解决方案，可简化在项目文档中查找信息的过程。通过集成强大的GPT模型，开发人员可以轻松地提出有关项目的问题并获得准确的答案。
+[ChatPaper：全流程加速科研：论文阅读+润色+优缺点分析与改进建议+审稿回复](https://github.com/kaixindelele/ChatPaper) | 总结,阅读 | Web | 免费 | 5 | ChatPaper是一款论文总结工具。AI用一分钟总结论文，用户用一分钟阅读AI总结的论文。
+[OpenAI Translator Bob Plugin 划词翻译浏览器插件](https://github.com/openai-translator/bob-plugin-openai-translator) | 翻译 | Mac | 免费,API | 4 | ChatGPT 向我们展示了 GPT 模型的伟大之处，所以我使用 OpenAI 的 API 实现了这个 Bob 的翻译 + 润色 + 语法修改插件，效果拔群
+[42share：一键分享你与GPT的对话](https://42share.io/) | 分享 | Chrome | 免费 | 4 | 42Share是活水工作室推出的浏览器插件产品，无论是在工作协作、叙述交流和日常闲聊中，42Share都可以帮你快速便捷的分享你与chatGPT的对话。
+[ChatGPT for Google](https://chrome.google.com/webstore/detail/chatgpt-for-google/jgjaeacdkonaoafenlfkkkmbaopkbilf) | 搜索 | Chrome | 免费 | 4 | 在搜索引擎结果中同时显示 ChatGPT 的回答
+[Webpilot：免费且开源，贼好用](https://www.webpilot.ai/) | 助手 | Chrome | 免费 | 4 | 与 ChatGPT 不同，无需聊天或切换页面，也无需复制和粘贴。只需选择文本，其他一切都会自动完成。
+[chatpdf：与任何 PDF 聊天](https://www.chatpdf.com/) | 总结,阅读,助手 | Web | 免费,收费 | 5 | 使用 ChatPDF 增强您的学习体验。毫不费力地理解教科书、讲义和演示文稿。不要花几个小时翻阅研究论文和学术文章。
+[划词翻译: OpenAI Translator](https://github.com/openai-translator/openai-translator/blob/main/README-CN.md) | 翻译 | Chrome,FireFox,Mac,Win | 免费,API | 4 | 基于 ChatGPT API 的划词翻译浏览器插件和跨平台桌面端应用。
+[中科院科研工作专用ChatGPT](https://huggingface.co/spaces/qingxu98/gpt-academic) | 搜索,翻译,助手,学术,应用 | Docker,Mac,Win | 免费,API | 5 | 为ChatGPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古, newbing, claude等
+[跟任何一本书聊天：BookAI](https://www.bookai.chat/) | 阅读 | Web | 免费 | 5 | 输入书名后，即可与任何一本书聊天。但请注意背后的ChatGPT可能会提供不准确的答案，因此不能保证100%准确。基于真实书籍数据的ChatGPT很快就会问世（实际上，基于各种真实数据库的各种聊天机器人已经在路上了）。
+[写作助手: rytr](https://rytr.me/) | 写作 | Web,Chrome | 收费,免费 | 4 | Rytr 是一款 AI 写作助手，可帮助您在短短几秒钟内以极低的成本创建高质量的内容！
+[图表绘图助手 ChartGPT](https://www.chartgpt.dev/) | 助手 | Web | 免费 | 5 | 使用 ChatGPT 帮忙绘制图表，代码已开源。
+[Brancher AI：人工智能应用程序平台](https://www.brancher.ai/) | 应用,自动化 | Web | 免费,收费,无广告 | 4 | 一个名为Brancher AI的人工智能应用程序平台。该平台可以帮助用户创建和分享AI应用程序，而无需编程知识。它提供了一个易于使用的界面和强大的AI模型，使用户能够轻松创建复杂的应用程序。
+[voicecontrol.chat ChatGPT 的语音控制](https://chrome.google.com/webstore/detail/voice-control-for-chatgpt/eollffkcakegifhacjnlnegohfdlidhn/related) | 翻译,助手 | Chrome,Web | 免费,无广告 | 5 | ChatGPT 的语音控制允许您与 ChatGPT 进行语音对话。通过引入录音按钮，您可以录制语音查询并将其发送到 ChatGPT，而无需打字。人工智能的回答随后会被大声朗读，确保顺畅的听觉互动。这使得与智能对话伙伴交互并探索高级 AI 的功能变得容易。
+[KeepChatGPT](https://github.com/xcanwin/KeepChatGPT) | 应用 | Chrome,Web | 免费,无广告 | 5 | 这是一款开源的、免费的、高效的ChatGPT畅聊插件，它可以让你的聊天无比丝滑，一劳永逸摆脱各种报错和警告，省去足足10个多余步骤，释放双手不再刷新网页，并且作者还在持续更新更多的增强功能，包括取消审计、克隆对话、净化页面、展示大屏、展示全屏、言无不尽、拦截跟踪、日新月异等等。
+[TaskMatrix 添加图片能力](https://github.com/microsoft/TaskMatrix) | 应用 |   | 免费 | 4 | 1.支持文生图2.支持文改图
+[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | 自动化 |   | 免费,API | 5 | Auto-GPT 是一个实验性开源应用程序，展示了 GPT-4 语言模型的功能。该程序由 GPT-4 驱动，将 LLM 的“思想”链接在一起，以自主实现您设定的任何目标。作为 GPT-4 完全自主运行的首批示例之一，Auto-GPT 突破了 AI 的可能性界限。
