@@ -769,3 +769,30 @@ Please pay attention:
 ![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/0bfa32cf-a035-4550-9d61-f9d70ed14c92)
 
 # 🛀 <strong>Prompt 进阶实操</strong>
+
+此部分内容将整理在wiki，请通过点击标题了解
+
+## 🎱 [数据结构化](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%8C%96)
+
+- 您可能想要将大量新闻或业务报告中的关键信息提取到表格中，然后将其输入电子表格或数据库中。像 ChatGPT 这样的聊天机器人可以帮助您实现这一目标。 我们可以通过在报告末尾添加"生成包含此信息的表格:"来提取信息。
+
+## 📩 [写邮件](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E5%86%99%E9%82%AE%E4%BB%B6)
+
+- 工作中最常见的操作了，但你真的会写邮件吗？比如，产品让你在下个星期五之前完成 测试版，你。。。总之这个要求非常无理、不切实际，你怎么表达？那我们用 GPT 来试试
+
+## 💡[生成 PPT](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E7%94%9F%E6%88%90-ppt)
+
+- 直接做示例
+
+## ✍️ [写文章](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%EF%B8%8F-%E5%86%99%E6%96%87%E7%AB%A0)
+
+- 如果让你在 5 秒内写一篇博客文章，你能做到吗？实际上，你无法完成这个任务。不过，人工智能可以显著缩短博客写作所需的时间。本文介绍如何利用人工智能来撰写博客。这个过程可以迭代：你需要学习如何编写提示语，然后查看模型的输出结果，从输出结果中选择合适的部分再进行下一步的迭代。
+
+## 🏫 [学习助手](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E5%AD%A6%E4%B9%A0%E5%8A%A9%E6%89%8B)
+
+- 无论你是学术，还是职场中的任何学习行为，利用好 GPT，简直可以省掉很多工具的使用以及各种查阅的耗时。
+- 解释内容：https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E8%A7%A3%E9%87%8A%E5%86%85%E5%AE%B9
+- 出题检验：https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E5%87%BA%E9%A2%98%E6%A3%80%E9%AA%8C
+- 学习计划：https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92
+- 语言学习 口语 写作 批改：https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0
+
