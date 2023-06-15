@@ -110,4 +110,4 @@
 - [中文图文](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%E4%B8%AD%E6%96%87%E5%9B%BE%E6%96%87)
 - [中文开发指南](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%E4%B8%AD%E6%96%87%E5%BC%80%E5%8F%91%E6%8C%87%E5%8D%97)
 - [The Ultimate GPT-4 Guide](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#the-ultimate-gpt-4-guide)
-- [更多请进入wiki]](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#-%E8%AF%BE%E7%A8%8B%E6%95%99%E7%A8%8B%E5%88%86%E4%BA%AB)
+- [更多请进入wiki](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#-%E8%AF%BE%E7%A8%8B%E6%95%99%E7%A8%8B%E5%88%86%E4%BA%AB)
