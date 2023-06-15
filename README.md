@@ -1418,3 +1418,60 @@ Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM | https://git
 - 2023 [GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models](https://arxiv.org/abs/2303.10130) 研究表明，大约 80% 的美国劳动力可能有至少 10% 的工作任务受到 GPT 引入的影响，而约 19% 的工作者可能有至少 50% 的任务受到影响。影响涵盖了所有工资水平，高收入工作可能面临更大的风险。
 
 [1](https://github.com/OpenMindClub/awesome-chatgpt/blob/main/README.zh-cn.md)
+
+# 🤖 AI应用分享
+
+本知识库将分享AI应用领域的工具、网站、应用等。你可以获得各个主题与领域的相关应用分享！希望能帮助到你。
+本应用列表属于基于AI技术的泛应用领域，ChatGPT和AI绘图领域请查阅相关目录。
+
+## 应用集合网站
+
+名称 | 地址 | 说明
+-- | -- | --
+Vondy：发现和使用数百种人工智能工具 | https://www.vondy.com/ | Vondy，它能够让您发现和使用数百种人工智能工具，包括编码、写作、数据科学等多个领域的工具，而无需离开平台。
+explainAi | https://www.explainthis.io/zh-hans/ai-toolkit | 最实用、最热门的 AI 工具，帮助你在工作与学习上更轻松有效率
+futurepedia | https://www.futurepedia.io/ | 未来百科 最大的 AI 工具目录，每日更新
+SaaS AI Tools | https://saasaitools.com/#tools | 是您获取新 AI 工具和每日 AI 新闻的来源
+gpt3demo | https://gpt3demo.com/ | ChatGPT 用法和 APP集合
+全球AI网站汇总 | https://github.com/xxxily/hello-ai/blob/main/home/navigation.md | 提供丰富而全面的AI网站汇总，资料来源(脑图)
+  |   |  
+
+## 👍 应用推荐
+
+名称 | 网址 | 分类 | 标签 | 推荐 | 说明
+-- | -- | -- | -- | -- | --
+IMI Prompt AI艺术生成器 | https://www.imiprompt.com/ | 艺术 | Web,iOS,Android,MidJourney,免费 | 4 | MI Prompt生成器是一个让您在艺术创作中发挥个性的神器。这个基于AI技术的艺术生成器具有广泛的艺术风格、颜色及物品选择等多种属性，使您无需了解太多专业术语，也可以轻松生成自己独特的艺术作品。IMI Prompt生成器还与最新版本的Midjourney兼容。
+Generated Photos | https://generated.photos/ | 图片 | Api,Web,付费 | 3 | 这个网站使用了最先进的人工智能技术，可以生成高质量的虚拟人物照片，几乎和真实的照片一模一样。他使用了深度学习技术，并分析了大量真实人物。
+palette.fm 配色方案 | https://palette.fm/ | 图片 | Api,付费,Web | 3 | 你只需上传一张图片或提供关键词，它即可通过智能分析自动生成与之相关联的配色方案。
+AI Recipe Generator AI食谱生成 | https://recipes.lionix.io/ | 生活 | 免费,付费,Web | 3 | 采用人工智能技术来为大众提供便捷快速的烹饪建议。
+ImageColorizer 修复老照片 | https://imagecolorizer.com/ | 图片 | iOS,Android,Win,Mac,Web,免费,付费 | 4 | ImageColorizer 是一个在线工具，利用 AI 技术对旧照片进行保存和修复。
+iconifyai AI 生成 App icon | https://www.iconifyai.com/ | 图片 | Web,付费 | 4 | 让 AI 在几秒钟内为您的应用设计出完美的图标。不再需要昂贵耗时的传统应用程序图标设计。
+Galileo AI：AI 生成 UI 产品 | https://www.usegalileo.ai/ | 图片 | Web,免费,付费 | 3 | Galileo AI 从简单的文本描述创建令人愉悦的、可编辑的 UI 设计。它使您能够比以往更快地进行设计。
+rationale AI 辅助决策工具 | https://rationale.jinaai.cn/ | 策略 | Web,付费 | 3 | 欢迎使用 Rationale，这是一种革命性的 AI，可帮助企业主、经理和个人做出艰难的决定。
+OpenAI 的 AI 检测工具 | https://openai.com/blog/new-ai-classifier-for-indicating-ai-written-text | 策略 | Web | 4 | 官方AI检测工具
+d-id AI 生成视频 | https://www.d-id.com/ | 视频 | 付费,Web | 4 | D-ID 的Creative Reality™ Studio 为您提供最强大的生成式 AI 工具集，以制作具有会说话的化身的精彩视频。结合 D-ID 的深度学习面部动画技术、GPT 文本生成和 Stable Diffusion 文本到图像功能的强大功能，自助工作室是那些寻求制作精彩和前沿视频的人必不可少的平台。
+Pebblely：AI 生成商业应用场景图 | https://app.pebblely.com/ | 商业 | Web,免费,付费 | 3 | 只需单击一个按钮，即可为任何产品创建适合 Instagram 的快照！
+Frase：人工智能写作和SEO工具 | https://www.frase.io/tools/ | 写作 | Web,付费 | 4 | 它拥有一整套的全面的工具，包括内容生成器、大纲生成器、意译工具、博客标题生成器和更多定制的内容。
+SpiritMe：提供数字化身视频制作服务 | https://spiritme.tech/ | 视频 | 付费,免费,iOS,Android,Web | 3 | 这个网站提供了数字化身视频制作服务，您可以通过简单的文本输入创建数字化身并生成带有声音和情感的视频。
+Kreado AI：使用人工智能来创建多语言语音视频 | https://www.kreadoai.com/ | 视频,音频 | 付费,免费,Web,Mac | 3 | 一个非常实用的视频创建工具——Kreado AI。它可以让您使用人工智能来创建多语言语音视频。Kreado AI支持140种不同语言的视频创作，您可以选择现实生活模型或虚拟角色进行创作。此外您还可以完全自定义AI生成的角色，让您的视频创作更具创意性。
+Cody：人工智能驱动的虚拟员工 | https://meetcody.ai/ | 助手 | Web,付费,免费,Api | 3 | Cody是一款由人工智能驱动的虚拟员工，可以帮助您完成各种业务任务。它的主要功能包括：为您量身定制的培训、实时回答问题、撰写电子邮件、翻译文档和创建营销材料等。Cody可以根据您的需求进行定制，适用于不同的用途，例如营销、人力资源或其他用例。
+Rewind：查找任何你看到、说过或听到的事情 | https://www.rewind.ai/ | 助手,生活,搜索 | Mac,付费,免费 | 4 | Rewind是一款生活搜索引擎，它能够帮助你找到你看过、说过或听到的任何东西。对于我们这样经常需要依赖第二大脑来记录和整理生活信息的人来说，它是一个必不可少的工具。
+Releasenote.ai：GPT-3驱动的演讲稿生成器 | https://releasenote.ai/ | 写作 | Web,免费,付费,GPT | 3 | Releasenote.ai是一个非常实用、高效的演讲稿生成器，能够帮助您快速制作引人入胜的演讲稿。
+Mental Models 提供了有关心理模型的信息和资源 | https://learnmentalmodels.co/ | 生活 | Web,付费 | 4 | 它有一个AI教练，可以与您聊天并帮助您将心理模型应用于您独特的情况和问题。 您还可以学习50多种涵盖不同知识领域（如物理学，心理学和商业）的心理模型。
+Drafter AI：一个无代码平台 | https://drafter.ai/ | 开发 | 付费,Web | 4 | 可以构建AI工具和自动化，而无需开发人员。它有内置的数据收集和处理功能、内置的AI技术等。使用Drafter AI，可以轻松创建、测试、启动和集成AI驱动的工作流程
+stunning：AI技术驱动的网站生成器 | https://stunning.so/ | 开发 | 免费,Web | 4 | 这是一个由AI技术驱动的网站生成器，可以让用户在不到30秒的时间内创建自己的网站。
+BuildAI：AI无代码开发工具几分钟内构建你的AI应用程序 | https://www.buildai.space/ | 开发 | Web,付费 | 4 | 这些应用程序可以获取文本输入并提供基于文本的输出，非常适合构建文本分析、自然语言处理等领域的应用。
+softr：无代码应用程序构建平台 | https://www.softr.io/ | 开发 | Web,免费,付费 | 4 | Softr是一个无代码应用程序构建平台，可以帮助您快速构建和部署Web应用程序，而无需编写任何代码。Softr提供预构建的功能块，如列表、图表、表单、表格、日历、地图等，可以直接使用。Softr获得了2021年Producthunt的金猫奖。
+slack：团队和工作使用的一个平台 | https://slack.com/intl/zh-cn/ | 协作 | Web,免费,付费,iOS,Mac,Win,Android | 5 | 与所有人轻松合作通过将你所有的工作交流都集中到一个地方，保持同一页面上的位置并更快地做出决策。
+chatExcel 北大团队开发 | https://chatexcel.com/convert | 办公 | Web,免费 | 4 | 酷表ChatExcel是通过文字聊天实现Excel的交互控制的AI辅助工具，期望通过对表输入需求即可得到处理后的数据（想起来很棒），减少额外的操作，辅助相关工作人员（会计，教师等）更简单的工作。
+Adobe Firefly | https://firefly.adobe.com/ | 图片 | Web,免费 | 5 | Adobe推出的人工智能工具系列，专注于图像生成和文本效果。旨在帮助创意专业人士和艺术家生成图像和艺术文字。目前，该系列首先推出了两款测试产品。第一款工具能够根据文本提示生成图像（文本生成图像AI工具），并提供数百种风格供用户调整。另一款工具则
+ChatMind：AI对话生成编辑思维导图 | https://www.chatmind.tech/ | 办公 | iOS,Android,Web,Win | 4 | 是一种利用AI对话生成编辑思维导图的工具，可以扩展对话上下文。
+AI代码助手: codeium | https://codeium.com/ | 开发 | Web,免费,付费 | 4 | 个人使用免费，有 vscode 插件，github copilot 平替
+Remove.bg AI驱动的工具 快速地从图像中删除背景 | https://www.remove.bg/zh | 图片 | 免费,Web | 4 | Remove.bg是一个AI驱动的工具，能够快速地从图像中删除背景。它使用高级算法和快速处理能力，可以轻松替换背景，处理复杂的细节，并与流行的设计软件和电子商务网站兼容，提升图像编辑和视觉效果的质量和效率。
+Pebblely：一款AI图像筛选平台 | https://pebblely.com/ | 图片 | 免费,付费,Web,Api | 4 | Pebblely是一款AI图像筛选平台，提供综合库和自动化搜索工具，用户可通过免费账户访问高质量的手选图片，并在个性化仪表盘上获得搜索洞察。设计师、内容创作者和市场营销专业人员可利用Pebblely找到完美的图片，提升项目的视觉吸引力和创意效果。
+Cleanup.pictures是一个人工智图片能编辑工具 | https://cleanup.pictures/ | 图片 | Web,免费 | 4 | Cleanup.pictures是一个人工智能编辑工具，旨在从图像中删除不需要的对象、人物、文本和缺陷。它提供快速简便的图像修饰，几秒钟内就能获得令人难以置信的结果。它利用先进的人工智能算法，提供比传统工具更好的编辑效果。
+Plask - 云端AI图像生成 | https://plask.ai/workspace | 图片 | Web,免费,付费 | 4 | 一个基于web的3D动画编辑器和动作捕捉工具，上传图像以应用姿势，AI根据上传3D建模自动生成图片内容。
+boredhumans 人脸生成 | https://boredhumans.com/faces.php | 图片 | Web,免费 | 3 | 我们的 AI 被训练来创造假人，从包含 70,000 张真人照片的数据库中学习。需要明确的是，下面的图片是不存在的人。它们不是真实的，它们是 AI 生成的。
+phind 搜索引擎 | https://www.phind.com/ | 搜索 | Web,免费 | 3 | 号称基于GPT4.0的搜索引擎
+  |   |   |   |   |  
+
