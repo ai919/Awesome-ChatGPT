@@ -796,3 +796,23 @@ Please pay attention:
 - 学习计划：[wiki](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92)
 - 语言学习 口语 写作 批改：[wiki](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0)
 
+## 👨🏻‍💻 [程序员](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E7%A8%8B%E5%BA%8F%E5%91%98)
+
+- 所有人都知道GPT能写代码，但在实际应用中，可能并不是所有不懂编程的普通用户都能完成编程任务。但是，对于稍有编程知识的人，或对程序员而言，GPT确实是一个非常好的助手。您可以使用 ChatGPT 进行调试、代码生成、重构、注释等操作，它支持超过 40 种编程语言的代码。
+
+## ☢️ [自动表情符号](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%EF%B8%8F-%E8%87%AA%E5%8A%A8%E8%A1%A8%E6%83%85%E7%AC%A6%E5%8F%B7)
+
+- 如果你用过一些类似“小红书文案生成器”，就知道我们可以直接让 GPT 加上合适的表情符号（emoji）。就像我是个比较喜欢在网络文案中使用表情符号来表达一些特殊含义，但有时候要从成百上千的表情堆中找到恰当的那个非常耗时耗力。现在，GPT 几秒钟搞定！
+
+## 🔖 [合同](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E5%90%88%E5%90%8C)
+
+- GPT 可以帮你解释、撰写、修改合同，以求合同更加准确。当然，法律层面，我们依然建议通过专业人士审核，GPT 不会为你承担法律后果！
+
+## 💫 [书写风格](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E4%B9%A6%E5%86%99%E9%A3%8E%E6%A0%BC)
+
+- ChatGPT AI 擅长于快速撰写论文和博客，但创作出的文章往往过于宽泛和枯燥。为使文章更加生动具体，可通过指定写作风格或著名作者来完成。
+
+## 📊 [总结信息](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E6%80%BB%E7%BB%93%E4%BF%A1%E6%81%AF)
+
+- ChatGPT 以其快速生成内容的能力而闻名，证明其可以大大节省时间。对于长篇文本，ChatGPT 能够协助我们更好地吸收和消化信息，为我们省下时间。它可概括书籍、电影、戏剧、文章等，通过使用 ChatGPT，就像拥有自己的 CliffNotes 笔记本
+- 这部分讲分解诠释：长文总结 提炼总结 纲要总结 解释代码 总结论文 信息总结 百科总结 文档总结
