@@ -1297,6 +1297,8 @@ Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM | https://git
 王小川 搜狗前CEO王小川官宣大模型创业 | https://mp.weixin.qq.com/s/3it0yuEf5yU6YifInWfvqQ | 快讯 | 图文 | 人物
   |   |   |   |  
 
+更多不再更新，[请移步wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%93%9A-AI%E9%A2%86%E5%9F%9F%E5%85%B6%E5%AE%83%E8%B5%84%E6%BA%90#%E6%96%87%E7%AB%A0%E6%B1%87%E6%80%BB)
+
 ## <strong>公司分析与风险投资分析</strong>
 
 ### <strong>OpenAI 投资者</strong>
