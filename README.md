@@ -1475,3 +1475,141 @@ boredhumans 人脸生成 | https://boredhumans.com/faces.php | 图片 | Web,免�
 phind 搜索引擎 | https://www.phind.com/ | 搜索 | Web,免费 | 3 | 号称基于GPT4.0的搜索引擎
   |   |   |   |   |  
 
+## 🔍 微软 New Bing
+
+### New Bing 申请方法和流程
+
+1.下载 Edge 浏览器 dev 版本，地址：[https://www.microsoftedgeinsider.com/en-us/download](https://www.microsoftedgeinsider.com/en-us/download)
+
+2.开启魔法上网模式或使用张良计；
+
+3.访问 [https://www.bing.com/new](https://www.bing.com/new) 并登录你的微软账户（必须先有微软账户）；
+
+4.点击页面上的“加入等待列表”，加入候选名单；
+
+5.等待微软批准通过后，即可预览新版 Bing。我等待时长约 3-4 个工作日，通过后微软会通知您已取得测试资格。也可以按官方指引安装 Bing 插件和下载移动端应用申请加速。
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/cc677db0-985a-4dd6-a9ff-ce1b4d8e7f84)
+
+### New Bing 桌面客户端
+
+链接：[https://github.com/dice2o/BingGPT](https://github.com/dice2o/BingGPT)
+
+•无需安装 Microsoft Edge 或浏览器插件即可与新 Bing 聊天
+
+•将完整对话导出为 Markdown、PNG 或 PDF
+
+•自定义外观（主题和字体大小）
+
+•多平台
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/95719a49-6426-4824-b570-dce35cc07a9b)
+
+## 🔍 谷歌 Bard​
+
+### Bard简介
+
+Bard是由Google推出的实验性对话式AI服务，LaMDA提供支持。现已开放测试申请，美英用户可加入候选名单。打开Bard官网进行申请测试。目前Bard不支持中文，但可联网搜索。有兴趣的可使用美英IP网络。申请地址：https://bard.google.com/
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/5038a965-4a4a-4c24-8a05-7d9c88303561)
+
+## 🔍 Claude
+
+### Claude 介绍
+
+Claude 是下一代人工智能助手，类似于 ChatGPT 应用，基于 Anthropic 公司对人工智能系统的研究，可执行各种对话和文本处理任务，同时保持高可靠性和可预测性。
+
+而 Anthropic 公司是由前 OpenAI 副总裁 Dario Amodei 和其他 11 名员工于 2021 年创立的，与 OpenAI 存在复杂关系。此外，在谷歌和微软进行智能搜索引擎竞争时，谷歌还向 Anthropic 投资了 3 亿美元。
+
+官网链接：[https://www.anthropic.com/claude-in-slack](https://www.anthropic.com/claude-in-slack)
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/79f9b1d0-8bf2-464c-ab9c-257df69d926f)
+
+### 注册 Slack
+
+Claude 无需注册，但它“嵌套”在 Slack 中，因此需要先拥有 Slack 账号，可以通过电子邮件或谷歌账号注册。
+
+Slack 是一款企业内部通信 Collaboration 工具，可用于团队内部交流与协作。
+
+网站地址：[https://slack.com/intl/zh-cn/](https://slack.com/intl/zh-cn/)
+
+注册完成后，跳转至该页面，下一步需在 Slack 中创建工作区:
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/ed6adf17-a694-487d-9ec9-2025c9028916)
+
+点击“新建工作区”按钮，共需三步操作：填写团队名称、邀请同事（可省略）、开始团队工作。
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/37d62d94-339e-489a-9c54-27d0ed9bc3c3)
+
+三步轻松搞定创建工作区！
+
+### 添加 Claude​
+
+在 Slack 的应用商店中查找 Claude AI ，链接如下：
+
+[https://ai-xbc6836.slack.com/apps/A04KGS7N9A8-claude?tab=more_info](https://ai-xbc6836.slack.com/apps/A04KGS7N9A8-claude?tab=more_info)
+
+然后，点击 "添加到 Slack"。
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/05d50f3d-bc7f-4cc2-afc1-fe188e5ecb2b)
+
+进入 Claude 与 Slack 的关联项选择，点击“允许”。
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/09e344d0-810d-4817-9b6c-4810166ee4f7)
+
+如果出现下面的页面，就代表 Claude 已成功添加到 Slack 中了！
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/b0d23cca-aead-4f28-9777-037df2fb18d5)
+
+关联成功后，返回 Slack 界面并点击“启动 SLACK”。
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/eaee39d8-7869-4ff9-b889-2f744794918f)
+
+Claude 将出现在 Apps 一栏中。
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/51617599-6aa8-41ae-9ae0-3c6f79d8f633)
+
+### 如何使用 Claude​
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/e854bf94-f9e5-4215-9426-c040f8cafa5c)
+
+使用 Claude 与 ChatGPT 类似，点击左侧菜单栏的 Claude，就可以输入文字与 Claude 进行对话了！值得注意的是，第一次对话时，Claude 会询问你是否授权，直接点击“Agree”就可以了！​
+
+Claude 的注册网站：[https://www.anthropic.com/claude-in-slack](https://www.anthropic.com/claude-in-slack)​
+
+Claude 的登录网站：[https://slack.com/get-started#/createnew](https://slack.com/get-started#/createnew)​
+
+登录网站记得加为收藏哦，方便下次使用。​
+
+
+# 🤔 答疑解惑
+
+## [🔍 如何解决 NewBing 无法访问](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-%E5%A6%82%E4%BD%95%E8%A7%A3%E5%86%B3-newbing-%E6%97%A0%E6%B3%95%E8%AE%BF%E9%97%AE)
+
+## [🔍 如果您的 ChatGPT 账号被封](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-%E5%A6%82%E6%9E%9C%E6%82%A8%E7%9A%84-chatgpt-%E8%B4%A6%E5%8F%B7%E8%A2%AB%E5%B0%81)
+
+## [🔍 GoogleBard 受支持地区列表](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-googlebard-%E5%8F%97%E6%94%AF%E6%8C%81%E5%9C%B0%E5%8C%BA%E5%88%97%E8%A1%A8)
+
+## [🔍 ChatGPT 能画图吗？](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-chatgpt-%E8%83%BD%E7%94%BB%E5%9B%BE%E5%90%97)
+
+## [🔍 经常需要人机确认，或者网络响应慢](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-%E7%BB%8F%E5%B8%B8%E9%9C%80%E8%A6%81%E4%BA%BA%E6%9C%BA%E7%A1%AE%E8%AE%A4%E6%88%96%E8%80%85%E7%BD%91%E7%BB%9C%E5%93%8D%E5%BA%94%E6%85%A2)
+
+## [🔍 当前国家禁用](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-%E5%BD%93%E5%89%8D%E5%9B%BD%E5%AE%B6%E7%A6%81%E7%94%A8)
+
+## [🔍 各种无法访问分析](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#%E5%90%84%E7%A7%8D%E6%97%A0%E6%B3%95%E8%AE%BF%E9%97%AE%E5%88%86%E6%9E%90)
+
+## [🔍 账号封禁](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-%E8%B4%A6%E5%8F%B7%E5%B0%81%E7%A6%81)
+
+## [🔍405 不允许](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#405-%E4%B8%8D%E5%85%81%E8%AE%B8)
+
+## [🔍 身份验证失败](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-%E8%BA%AB%E4%BB%BD%E9%AA%8C%E8%AF%81%E5%A4%B1%E8%B4%A5)
+
+## [🔍 频率限制](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-%E9%A2%91%E7%8E%87%E9%99%90%E5%88%B6)
+
+## [🔍 可疑的登录行为](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-%E5%8F%AF%E7%96%91%E7%9A%84%E7%99%BB%E5%BD%95%E8%A1%8C%E4%B8%BA)
+
+## [🔍 系统繁忙](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-%E7%B3%BB%E7%BB%9F%E7%B9%81%E5%BF%99)
+
+## [🔍 注册失败](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-%E6%B3%A8%E5%86%8C%E5%A4%B1%E8%B4%A5)
+
+## [🔍 注册失败，邮箱不支持](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%A4%94-%E7%AD%94%E7%96%91%E8%A7%A3%E6%83%91#-%E6%B3%A8%E5%86%8C%E5%A4%B1%E8%B4%A5%E9%82%AE%E7%AE%B1%E4%B8%8D%E6%94%AF%E6%8C%81)
