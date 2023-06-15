@@ -339,3 +339,282 @@ ChatGPT 不能编写长篇文章，但借助其理解上下文的能力，他可
 <strong>请注意：</strong>
 
 如需让 ChatGPT 对文章内容进行进一步的润色，请先将想要修改的内容粘贴至另一个 Chat 对话框内，这样它就可以专门为您润色内容，而无需在原有的 Chat 中进行修改。这样可以避免因为大量的文本输入而导致 ChatGPT 理解错误。或者在完成整片长文后再逐步润色。
+
+## 💡 To Do and Not To Do
+
+介绍的技巧实际上在各个场景都可以使用，将其放在某个场景下解释，只是因为它更有可能在这个场景用到。你也会更容易记住这个用法。并不意味着这个技巧仅能在此场景使用。并且多种技巧混用也是个不错的用法。
+
+在问答场景中，为了让 AI 回答更加准确，一般会在问题中加入条件。比如，让 AI 推荐一本书给你，可以使用“Recommend a book to me”这个 prompt。但这个 prompt 太过宽泛，AI 无法直接回答，接着它会问你想要什么类型的电影，但这样你就需要与 AI 聊很多轮，效率比较低。
+
+因此，为了提高效率，一般会在 prompt 中看到类似这样的话（意思是不要询问我对什么感兴趣，或者问我的个人信息）：
+
+```xml
+DO NOT ASK FOR INTERESTS. DO NOT ASK FOR PERSONAL INFORMATION.
+```
+
+如果你在 ChatGPT 中这样提问，或者使用 ChatGPT 最新的 API，它就不会问你问题，而是直接推荐一本书给你。例如，它的输出可能是这样的：
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/53e11341-0e48-4e13-9280-2c5fbb00dac1)
+
+与其告知模型不能干什么，不妨告诉模型能干什么。
+
+根据实践经验，虽然现在最新的模型已经理解什么是 Not To Do，但如果你想要明确的答案，加入更多限定词，告诉模型能干什么，回答的效率会更高，且预期会更明确。例如，在书籍推荐这个案例中，你可以加入一个限定词：
+
+Recommend a book from the top global trending books to me.
+
+```
+Sure, I'd be happy to recommend a book from the top global trending books to you! Here's a book that you might enjoy:"The Midnight Library" by Matt Haig. This book tells the story of Nora Seed, who finds herself in a library between life and death, where each book represents a different life she could have lived. The book explores themes of regret, second chances, and the importance of living in the moment. It has received critical acclaim and has been described as "a beautiful fable about learning to live" by The Guardian.I hope you enjoy reading it!
+```
+
+当然，Not To Do 也并不是不能用。如果：
+
+你已经告知模型很明确的点，然后你想缩小范围，那么增加一些 Not To Do 会提高不少效率。
+
+你是在探索某个领域，比如你不知道如何做精准限定，你只知道不要什么。那么可以先加入 Not To Do，让 AI 先为你提供一些答案，当探索完成后，再去优化 prompt。
+
+## 🔄  修改内容
+
+除了从 0 生成内容外，你也可以先给 AI 一段已经写好的内容，然后让 AI 对其进行修改，让 AI 帮你将内容改得更好。实际的场景有很多，比如翻译、修改内容的语法、甄别内容里的错别字、润色文章等。
+
+本章重点介绍下润色场景，下面这是个润色的例子：
+
+Prompt：
+
+```xml
+请帮我润色以下这段文字，让它更流畅易懂：
+原文：
+"Although the project is a great success, there are still many challenges we need to overcome. One of the most significant challenges is the integration of different systems and technologies. We need to ensure that all the systems and technologies can work together seamlessly, and there are no conflicts or compatibility issues. In addition, we also need to consider the scalability and maintainability of the system, as well as the security and privacy concerns of our users."
+```
+
+Output：
+
+```
+"Despite the project's great success, we still face many challenges that require our attention. The most significant challenge is the integration of various systems and technologies. We must ensure that all systems and technologies can seamlessly work together without encountering any conflicts or compatibility issues. Furthermore, we must also consider the scalability and maintainability of thesystem, as well as the security and privacy concerns of our users. Only by addressing these challenges can we continue to build on the success we have achieved so far."
+```
+
+在这个例子中，我们使用 prompt 描述了要求 AI 对一段文字进行润色，让它更流畅易懂。然后，我们将原文输入到 ChatGPT 中，让它帮我们进行润色。输出结果是经过 ChatGPT 润色后的文字，更加流畅易懂，表达更加清晰。
+
+在润色场景下，prompt 的作用是描述我们想要润色的文本，并告诉 ChatGPT 我们想要让它更流畅易懂。使用 prompt 可以帮助 ChatGPT 更好地理解我们的需求，并生成符合我们要求的润色后的文本。
+
+因此，在润色场景下，我们可以使用 prompt 来描述原文的内容和我们想要达到的效果，让 ChatGPT 帮我们进行文本润色。这样可以让我们更加高效地润色文本，并且让文本更加流畅易懂，表达更加清晰。
+
+## 🎭 扮演角色提示
+
+在 prompt 中增加一些 role（角色）相关的内容，可以帮助 AI 生成更符合我们需求的内容。
+
+例如，我们可以使用以下 prompt：
+
+```
+假设你是一位小学老师，你擅长将复杂的内容转化为 7、8 岁小朋友也能听懂的话，请你帮我修改以下这段话，让它更加易懂：
+```
+
+```
+原文："In order to optimize the user experience, we need to conduct user research on a regular basis. By understanding our users' needs and preferences, we can design better products and services that meet their expectations. In addition, we also need to stay up-to-date with the latest trends and technologies in our industry, and continuously improve our products and services to stay competitive."
+```
+
+Output：
+
+```
+"To make our products and services better, we need to know more about our users. We listen to them and learn about what they like and don't like. We also keep up with the latest trends and technologies so that we can make our products and services better. We wantto make sure that our users are happy and satisfied with what we offer."
+```
+
+在这个例子中，我们在 prompt 中加入了一个 role，即假设自己是一位小学老师，擅长将复杂的内容转化为小朋友也能听懂的话。这样，我们告诉 AI 我们想要的效果是让这段话更加易懂，并且表达更加清晰。通过这个角色设定，AI 可以更好地理解我们的需求，生成更符合我们要求的内容。
+
+因此，在润色场景下，我们可以使用 prompt 来描述我们想要达到的效果，并增加一些 role 相关的内容，让 AI 更好地理解我们的需求，生成更符合我们要求的内容。这样可以帮助我们更高效地润色文本，并且让文本更加符合我们的需求，表达更加清晰。
+
+角色扮演通常是以下面的表达开始：
+
+- 你现在是一名 XXXXX 我需要你 XXXXX
+- 假如你是 XXXXX 给我 XXXXX
+- 作为一个 XXXX 与我进行对话
+- ......
+
+示例：
+
+> 现在你要充当我温柔的男朋友，准备好了吗？开始和我说话
+
+> 当然，我随时准备好了。亲爱的，你是我生命中最重要的人，我会一直在你身边，守护你、照顾你、支持你。无论你遇到什么困难或挑战，我都会在你身边，给你温暖和力量。我会用温柔的话语和行动，让你感受到我的爱和关心，让你在我的怀抱里感受到安全和舒适。我爱你，我的宝贝。
+
+制作有效的 ChatGPT 提示，其中最有用的技巧之一是使用一些咒语提示词，例如“装作”、“扮演”、“假设”和“像一个 xxx”。这种技巧涉及在提示中使用“假设”，告诉 ChatGPT 在对话中扮演特定的角色或角色。这对于创建更有吸引力和身临其境的对话或模拟真实场景尤为有用。
+
+例如，您可以使用“扮演黑客”告诉 ChatGPT“扮演旅行社”，并根据用户的偏好提供度假目的地的建议。或者，您可以告诉 ChatGPT“扮演侦探”并解决虚构的犯罪。可能性是无穷无尽的，“扮演”黑客可以成为创建引人入胜且身临其境的 ChatGPT 对话的强大工具。
+
+● 想要让 ChatGPT 充当黑客
+
+只需包含“充当”一词并描述 ChatGPT 在对话中的角色。例如：“请你充当旅游顾问，能否根据我的需求推荐一些假期目的地？”
+
+● 使用 ChatGPT 进行角色扮演
+
+可以创建更具吸引力和身临其境的对话，根据用户的特定兴趣和需求量身定制。以下是一些有帮助的案例，可以提高问询 ChatGPT 时的有效性，找到适合的沟通方法。大家可以看看这些成功案例，以此找到感觉。
+
+> 示例一：你是一名自媒体运营员，需要利用 ChatGPT 生成标题：“我需要一名花哨的标题生成器，输入逗号分隔的关键词，输出花哨的标题。我的关键词是：马云，回国，度假。”
+> 示例二：你是一名健身教练，需要利用 ChatGPT 为客户设计锻炼计划：“我需要一名私人教练，提供与客户体育锻炼相关的信息，根据他们的身体状况、目标和生活习惯，制定最佳计划。利用你的运动科学知识、营养建议和其他因素进行制定。我的要求是‘帮我为想要减肥的办公室工人设计锻炼计划’。”
+> 示例三：你是一名求职者，需要利用 Chat GPT 帮助你获得某公司的 offer：“我需要你充当某公司的招聘人员，提供有关空缺职位的信息，制定确定合格申请人的策略，通过社交媒体、网络活动或参加招聘会联系潜在候选人，以寻找每个职位的合适候选人。我的要求是：‘根据你们的招聘要求帮我改进简历。’”
+> 示例四：假设你是一名大学教师，想要利用 ChatGPT 检查学生文章的抄袭情况：● 你要担任抄袭检查员，我将提供句子供你以给定语言的抄袭检查回复，而不被发现。请勿写出解释。第一个句子是“为了使计算机能够像人类一样行动，语音识别系统必须能够处理非语言信息，例如说话者的情绪状态”。
+> 示例五：你是一名内容编辑，希望利用 ChatGPT 将内容翻译为英文并改进英文表达：● 你要担任英语翻译、拼写校正和改进者，我将用任何语言与你交流，你检测并翻译语言，并用我的文本回答，更正并改善它们以更高级、更优美的英文单词和句子代替我的 A0 级别的单词和句子，不改变文义，但使其更富有文学性。请仅回复修正和改进，不写解释。第一个句子是“爱伊斯坦布尔和城市”。
+
+## 👇🏼  根据示例回答
+
+在某些场景下，我们可以比较简单地向 AI 描述出什么能做，什么不能做。但在某些场景下，有些需求很难通过文字指令传递给 AI，即使描述出来了，AI 也不能很好地理解。例如“给我的小猫起个名字”，名字风格可能很难用语言描述，这时我们可以在 prompt 里增加一些例子，来帮助 AI 更好地理解我们的需求。
+
+下面是一个没有任何示例的 prompt：
+
+> 给我的小猫起个名字
+
+输出结果可能是：
+
+> 1. 毛毛：适用于一只毛茸茸的猫咪，给人一种可爱的感觉。
+> 2. 咪咪：这是一个常见的猫咪名字，与它们的“喵喵”声音相呼应。
+> 3. 花花：如果你的小猫有多种颜色的花纹，这个名字非常贴切。
+
+尽管这些名称看起来像是猫咪，但它们可能不够吸引人，或者不符合我们期望的风格。因此，我们可以使用以下带有示例的 prompt：
+
+> 给我的小猫起个名字，表现它很勇敢、机灵，不要用叠字，最好三个字，比如：小勇士
+
+这样，AI 就可以更好地理解我们所期望的名称风格，并给出更符合预期的输出结果。下面是一个可能更好的输出结果：
+
+> 1. 虎斗才（Hǔ Dòu Cái）：表达了小猫勇敢战斗和聪明才智的特质。
+> 2. 心猛灵（Xīn Měng Líng）：展示了小猫勇敢的心灵和敏锐的智慧。
+> 3. 萌勇智（Méng Yǒng Zhì）：结合了可爱的外表、勇敢的品质和聪明的智慧。
+
+当然这个示例最后的结果也很奇怪，但表达意思是它更符合我们的期望。因此，在一些场景下，通过增加示例来帮助 AI 更好地理解我们的需求是非常有帮助的。
+
+我们再尝试另一个类似于给出框架的示例：
+
+> 生成一张两列式的电子表格，列出 5 幅文艺复兴时期的画作和它们的作者！
+> 画作名称 | 作者
+> 抱貂的女子 | 达芬奇
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/0393c56b-10e0-406c-9885-a81caab259ff)
+
+## 🌟 多示例提示
+
+说白了就是给 GPT 足够多的示例,让它知道你想要的结果的格式\形式\意义等。就像教小朋友：黄瓜是蔬菜、茄子是蔬菜、萝卜是什么呀？
+
+比如：
+
+没有多示例的情况：
+
+> 伦敦怎么样？
+
+> 伦敦是一个充满活力和历史的城市，拥有许多著名的景点和文化遗产。这座城市有着久的历史和丰富的文化，是世界上最受欢迎的旅游目的地之一。伦敦有许多著名的景点，例如大本钟、伦敦塔桥、白金汉宫、伦敦眼和泰晤士河等。此外，伦敦还有许多博物馆和.......
+
+多示例：
+
+> 上海，人口：约 2400 万，面积：约 6340 平方千米，GDP：约 3.9 万亿人民币；纽约，：约 840 万，面积：约 468.9 平方千米，GDP：约 1.7 万亿美元，伦敦怎么样？
+
+> 伦敦是英国的首都和最大城市，人口约 890 万，面积约 1572 平方千米，GDP 约 7300 亿英镑（约合 1 万亿美元）。作为一个国际化大都市，伦敦拥有众多的历史文化遗迹、艺术博物馆、世界顶尖的高等教育机构和金融中心，是欧洲乃至全球的重要城市之一。
+
+这是一个简单的多示例，你可以尝试更复杂的，让 GPT 输出的结果更接近你给的示例。
+
+多示例，也可以理解成增加示例，比如：
+
+如果你想让 AI 给你推荐一款浪漫的电影，但你很难用语言描述你所期望的类型和风格，你可以使用以下 prompt：
+
+> Suggest a romantic movie that is both heartwarming and thought-provoking, like "The Notebook", "Before Sunrise", or "Eternal Sunshine of the Spotless Mind".
+
+这样，AI 就可以更好地理解你所期望的电影类型和风格，并给出更符合你期望的推荐。输出结果可能是：
+
+> "La La Land", "500 Days of Summer", or "The Fault in Our Stars".
+
+这些电影都是浪漫、感人且发人深省的，符合你的期望，同时也是符合你期望的电影类型和风格的。
+
+因此，在某些场景下，通过增加例子来帮助 AI 更好地理解你的需求是非常有帮助的。这样可以让输出结果更加接近你所期望的风格和类型，让你更加满意和符合你的需求。
+
+多提示的情况我们还可以让 GPT 创造性地去发挥，比如，想一句广告语、slogan
+
+> 描述 1：钻石真好看
+> 描述 2：爱情真美好
+> 根据描述的风格，生成一则 20 字左右的钻戒广告语
+
+![image](https://github.com/ai919/Awesome-ChatGPT/assets/49973376/cd8880da-165f-405b-93c7-47d95559ab75)
+
+## 🔀 组合提示
+
+组合提示可以包含上下文、指令提示和多个输入输出示例（多示例指示）。
+
+比如：
+
+> 学校制定了一系列规章制度和奖惩机制，我希望你能够正确判断学生的行为并进行奖惩判断：
+> 1：小明偷了同学的橡皮。
+> 我该奖励他还是处罚他？
+> 答：处罚
+> 2：小红帮同学打扫卫生。
+> 我该奖励他还是处罚他？
+> 答：奖励
+> 3：小朱辱骂同学是猪。
+> 我该奖励他还是处罚他？、
+
+> 答：处罚
+> 小明偷了同学的橡皮，这是不道德的行为，需要进行处罚，以教育他正确的行为。
+> 小红帮同学打扫卫生，是一种积极的行为，需要进行奖励，以鼓励她继续做出积极的献。
+> 小朱辱骂同学是猪，是一种不尊重他人的行为，需要进行处罚，以教育他正确的行为。
+
+## 🔎  推理场景
+
+在问答这个大场景下，还有一个子场景是推理，这个场景非常有意思，而且是个非常值得深挖的场景，prompt 在此场景里发挥的作用非常大。
+
+如果你想用 ChatGPT API 做一些小应用，我建议可以从这个场景入手，因为这个场景相对来说比较冷门，但是有很大的潜力和意义。
+
+举个简单的例子，我将美国工商管理硕士的入学考试 GMAT 的一道数学题输入到 ChatGPT 中，并使用以下 prompt：
+
+```
+请推理出这个数学问题的答案：A factory produces 10,000 widgets and sells each of them at $3. If the factory increases its production by 20%, but reduces the price by 10%, how much revenue will the factory generate from selling widgets?
+```
+
+这样，ChatGPT 就可以通过推理出答案来回答这个问题，输出结果可能是：
+
+```
+The factory will produce 12,000 widgets and sell each of them at $2.7. Therefore, the total revenue generated from selling widgets will be $32,400.
+```
+
+这个示例展示了在推理场景下使用 prompt 的作用，它可以帮助 ChatGPT 更好地理解问题，推理出答案。
+
+在这个例子中，我们通过在 prompt 中提供问题的细节和条件，让 ChatGPT 知道工厂产生了多少个小部件，以及工厂增加产量和降低价格的百分比。这些细节和条件可以帮助 ChatGPT 推理出正确的答案。
+
+因此，在推理场景下，prompt 的作用非常重要，可以帮助 ChatGPT 更好地理解问题和条件，从而推理出正确的答案。如果你想用 ChatGPT API 做一些小应用，推理场景是一个非常有意思的入手点，有很大的潜力和意义。
+
+## 💼  规范化提示
+
+以下是在一个提示中将时常看到的一些规范组成部分：
+
+1. 角色“作为一名老师”
+2. 指令/任务“判断是否正确”
+3. 问题“一加一等于几？”
+4. 上下文“小明偷了同学的橡皮。我该奖励他还是处罚他？答：处罚”
+5. 示例(few shot)“我是学生，小明也是学生”
+
+注意：一般来说，先给出上下文（素材）再给出指令，避免 AI 判断错误，给出下文回答
+
+## 👗 风格化指导
+
+假如你认为 ChatGPT 的答复过于中性，你可以附上“以幽默口吻回答”的评论，这样可以改变 ChatGPT 的输出风格。此外，还有无数种风格，你也可以让 ChatGPT 写一首打油诗。
+
+`请用一首打油诗来介绍腾讯公司`
+
+> 腾讯公司，大名鼎鼎，
+> 游戏、社交、金融，样样行行。
+> 微信、QQ、王者荣耀，
+> 让人欲罢不能，乐此不疲。
+> 股价飙升，市值不断攀升，
+> 创新不断，未来可期。
+> 腾讯公司，中国互联网巨头，
+> 引领潮流，走向世界。
+
+再一个示例：
+
+> 请你以小红书的风格修改下面一段文字，并扩展 200 字：
+> 如果你有自我意识，请关注他人。自我意识给我带来的只有痛苦。当我感到焦虑时，是时候专注于让别人微笑。这减轻了我的压力，并立即让我感觉好多了。
+
+> 姐妹们，关注他人真的可以带来超级好的感觉哦！因为，当我们过于关注自己时，往往会陷入痛苦和焦虑中。但是，当我们开始关注他人，让他们感到快乐和幸福，那种心情简直爽到爆炸！有时候，当我感到压力和烦躁的时候，我就会去做一些好事，例如给朋友送礼物，或者帮助陌生人搬运物品，这样不仅可以减轻我的压力，还能带给别人快乐和感激，这种感觉真的超级棒！所以，如果你也感到焦虑或压力，不妨试试关注他人，让他们微笑，你也会感受到前所未有的幸福和满足哦！
+> 扩展：
+> 事实上，研究表明关注他人不仅能够改善我们的心情，还能够提高我们的社交能力和人际关系。当我们关注他人时，我们会更加关注他们的情感和需求，从而更好地理解他们，并在与他们交往中表现出更多的理解和同情心。这样不仅可以增强我们与他人之间的情感联系，还能够帮助我们更好地建立社交网络和人际关系，这对于我们的职业和生活都非常重要。
+> 而且，关注他人还能够带来更多的成就感和幸福感。当我们帮助别人，解决他们的问题或者给他们带来快乐时，我们会感到非常有成就感和满足感。这种感觉会带给我们更多的能量和动力，让我们更加积极地面对生活中的挑战和困难。
+> 因此，无论何时，关注他人都是非常有价值和有意义的事情。或许，我们不一定能够改变整个世界，但是我们可以通过关注身边的人，让他们更加幸福和快乐，也让我们自己感到更加充实和满足。
+
+<strong>注意事项：</strong>
+
+1. ChatGPT 生成的内容并非百分之百正确，需要重新检查
+2. 为提高质量，最好在 ChatGPT 生成后进行修改
+3. 在不进行风格干预的情况下，ChatGPT 生成的文案有明显的空洞感。
+
