@@ -791,8 +791,8 @@ Please pay attention:
 ## 🏫 [学习助手](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#-%E5%AD%A6%E4%B9%A0%E5%8A%A9%E6%89%8B)
 
 - 无论你是学术，还是职场中的任何学习行为，利用好 GPT，简直可以省掉很多工具的使用以及各种查阅的耗时。
-- 解释内容：https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E8%A7%A3%E9%87%8A%E5%86%85%E5%AE%B9
-- 出题检验：https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E5%87%BA%E9%A2%98%E6%A3%80%E9%AA%8C
-- 学习计划：https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92
-- 语言学习 口语 写作 批改：https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0
+- 解释内容：[wiki](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E8%A7%A3%E9%87%8A%E5%86%85%E5%AE%B9)
+- 出题检验：[wiki](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E5%87%BA%E9%A2%98%E6%A3%80%E9%AA%8C)
+- 学习计划：[wiki](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E5%AD%A6%E4%B9%A0%E8%AE%A1%E5%88%92)
+- 语言学习 口语 写作 批改：[wiki](https://github.com/ai919/Awesome-ChatGPT/wiki/%E2%9C%8D%F0%9F%8F%BB-Prompt%E6%8F%90%E7%A4%BA%E6%8C%87%E5%8D%97#%E8%AF%AD%E8%A8%80%E5%AD%A6%E4%B9%A0)
 
