@@ -1128,3 +1128,33 @@ Free ChatGPT Site List，一个专门收集分享 ChatGPT 镜像站点的网站�
 [POE手机客户端](https://poe.com/) | 客户端 | Android,iOS | 5 | 中文,英文 | Poe 是一个汇集各类 AI 的工具，能体验 GPT4 / Claude 的能力，反应速度很快，充值也方便些，下载在常见应用。 | 免费,收费 | 不支持API | 🪜 | HK$1599.00/yr
 [Chatbox：支持 Windows、Mac 和 Linux](https://github.com/Bin-Huang/chatbox/blob/main/README-CN.md) | 客户端 | Win,Mac,Linux | 4 | 中文,英文,GitHub | 开源的 ChatGPT API (OpenAI API) 桌面客户端，Prompt 的调试与管理工具，支持 Windows、Mac 和 Linux | 免费 | API | 免翻
 [ChatGPT-Desktop](https://github.com/Synaptrix/ChatGPT-Desktop/blob/master/README-CN.md) | 客户端 | Win,Mac,Linux | 3 | 英文,中文,GitHub | 我们使用 tauri 构建项目，使项目包更加小巧精简，资源占用更少，同时适配多个平台。 | 免费 | API | 免翻
+
+## 部署搭建
+
+名称 | 平台 | 标签 | 推荐度 | 说明
+-- | -- | -- | -- | --
+[WeChat-ChatGPT](https://github.com/fuergaosi233/wechat-chatgpt) | 微信 | 中文,GitHub,一键部署 | 5 | 让你的微信号变成ChatGPT
+[ChatGPT-wechat-bot](https://github.com/AutumnWhj/ChatGPT-wechat-bot) | 微信 | 中文,GitHub,一键部署 | 5 | 几步即可获得一个基于 ChatGPT 的微信机器人
+[ChatGPT 的逆向工程可扩展 API](https://github.com/acheong08/ChatGPT/blob/main/docs/README_zh.md) | Python | 中文,GitHub,一键部署 | 3 | ChatGPT 的逆向工程可扩展 API，可用于聊天机器人等。
+[ChatGPT Telegram Bot in AWS Lambda](https://github.com/franalgaba/chatgpt-telegram-bot-serverless) | Telegram | GitHub,一键部署 | 3 | 这是一个 Telegram 机器人，可让您与ChatGPT聊天。该机器人是使用全新的 ChatGPT API创建的。Telegram 机器人在 AWS Lambda 中完全无服务器部署。无需设置本地服务器或在浏览器中登录。
+[使用 ChatGPT 创建您的第一个应用程序](https://genez.io/blog/create-your-first-app-using-chatgpt/) | APP | GitHub | 3 | 在本教程中，我将向您展示如何创建一个名为 Rephrasing App 的应用程序。您要构建的应用程序有一个用 React 编写的简单 UI，使用 ChatGPT API 并部署在 genezio 上。
+[ChatGPT Web：搭建ChatGPT网页](https://github.com/Chanzhaoyu/chatgpt-web) | Web | 中文,GitHub,一键部署 | 5 | 支持双模型，提供了两种非官方 ChatGPT API 方法
+[teach-anything： Ai教您任何东西](https://github.com/lvwzhen/teach-anything) | Web | 中文,GitHub,一键部署 | 4 | 该项目使用OpenAI GPT-3 API（特别是 text-davinci-003）和带流的Vercel Edge 函数。它根据表单和用户输入构建提示，通过 Vercel Edge 函数将其发送到 GPT-3 API，然后将响应流式传输回应用程序。
+[ChatGPT-API Demo](https://github.com/anse-app/chatgpt-demo/blob/main/README.zh-CN.md) | Web | 中文,GitHub,一键部署,API | 5 | 一个基于 OpenAI GPT-3.5 Turbo API 的 demo。
+[chatgpt-web：私有化web程序](https://github.com/869413421/chatgpt-web) | Web | 中文,GitHub,API | 2 | 基于ChatGPT3.5 API实现的私有化web程序
+[Better ChatGPT：免费、无限、强大、智能、迷人](https://github.com/ztjhz/BetterChatGPT/blob/main/README-zh_CN.md) | Web | API,一键部署,GitHub,中文 | 5 | Better ChatGPT 是任何想要体验对话型人工智能无限潜力的人的终极目的地。我们的应用程序利用 OpenAI 的 ChatGPT API 的全部潜力，提供了一个无与伦比的聊天机器人体验，而且完全免费，并且没有任何限制。
+[ChatGPT-Vercel：UI 优雅简洁的同时功能尽可能强大](https://github.com/ourongxing/chatgpt-vercel) | Web | 一键部署,GitHub,API,中文 | 5 | 快速部署到国外平台，支持 Vercel，Netlify，Railway，免翻使用，方便分享给朋友。
+[Chuanhu Chat：为ChatGPT提供轻快好用的界面](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | Web | 一键部署,API,GitHub,中文 | 4 | Chuanhu Chat：为ChatGPT等多种LLM提供轻快好用的Web图形界面
+[中科院科研工作专用ChatGPT](https://github.com/binary-husky/gpt_academic) | Web,Win,Linux,Mac,Docker | 中文,GitHub,一键部署,API | 5 | About为ChatGPT/GLM提供图形交互界面，特别优化论文阅读润色体验，模块化设计支持自定义快捷按钮&函数插件，支持代码块表格显示，Tex公式双显示，支持Python和C++等项目剖析&自译解功能，PDF/LaTex论文翻译&总结功能，支持并行问询多种LLM模型，支持清华chatglm等本地模型。兼容复旦MOSS, llama, rwkv, 盘古, newbing, claude等
+[visual ChatGPT 为 ChatGPT 添加图片能力](https://github.com/microsoft/visual-chatgpt) | Web | 中文,GitHub,一键部署,API | 5 | 为 ChatGPT 添加图片能力.[论文：Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models ] [GitHub 代码]
+[支持 ChatGPT 的智能音箱 wukong-robot](https://github.com/wzpan/wukong-robot) | 硬件 | API,一键部署,GitHub,中文 | 5 | 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
+[图表助手 ChartGPT](https://github.com/whoiskatrin/chart-gpt) | Web | 中文,GitHub,一键部署,API | 5 | 使用 ChatGPT 帮忙绘制图表，代码已开源。
+[ai-anything：人人都能创建 GPT 工具](https://github.com/KeJunMao/ai-anything/blob/main/README.zh-cn.md) | Web | 中文,GitHub,一键部署,API | 4 | 大部分 ChatGPT 相关的工具本质上就是调整 prompt，AI Anything 则让人人都可以快速创建 ChatGPT 小工具。
+[Chatgpt-Telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) | Web | 一键部署,GitHub,中文,API | 4 | 与 OpenAI 的官方ChatGPT、DALL·E和Whisper API集成以提供答案的Telegram 机器人。只需最少的配置即可使用。
+[Chatbot UI](https://github.com/mckaywrigley/chatbot-ui) | Web | 一键部署,GitHub,API | 5 | 搭建属于自己的 ChatGPT 网站
+[gpt4free](https://github.com/xtekky/gpt4free) | Web | GitHub,一键部署,API | 5 | 提供 GPT-4/3.5 的来自各种网站的逆向 API，来自 ChatGPT、poe.com 等各种网站，可以像Openai的官方软件包一样使用。
+[Docker本地部署ChatGPT](https://www.moyunews.com/chatgpt-docker/) | Linux,Win,Web,Mac,Docker | 中文,GitHub,一键部署,API | 4 | 搭建本地ChatGPT免费使用OpenAI无需API和魔法
+[wechat-chatgpt](https://github.com/fuergaosi233/wechat-chatgpt/blob/main/README_ZH.md) | 微信 | 中文,GitHub,一键部署,API | 4 | 在微信上迅速接入 ChatGPT，让它成为你最好的助手！
+[Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) | Web | API,GitHub | 5 | Auto-GPT 是一个实验性开源应用程序，展示了 GPT-4 语言模型的功能。该程序由 GPT-4 驱动，将 LLM 的“思想”链接在一起，以自主实现您设定的任何目标。作为 GPT-4 完全自主运行的首批示例之一，Auto-GPT 突破了 AI 的可能性界限。
+[AgentGPT](https://github.com/reworkd/AgentGPT) | Web | 中文,GitHub,API | 5 | AgentGPT 允许您配置和部署自治 AI 代理。为您自己的自定义 AI 命名，让它开始任何可以想象的目标。它将尝试通过思考要完成的任务、执行任务并从结果中学习来实现目标.
+[Pandora](https://github.com/pengzhile/pandora) | Web | 中文,GitHub,API | 4 | 潘多拉 (Pandora)，一个让你呼吸顺畅的 ChatGPT。 潘多拉实现了网页版 ChatGPT 的主要操作。后端优化，绕过 Cloudflare，速度喜人。
