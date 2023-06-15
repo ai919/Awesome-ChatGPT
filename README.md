@@ -887,3 +887,120 @@ Please pay attention:
 
 - 如果你想要更好地了解 OpenAI 的 API，同时又想避免 ChatGPT 不可用的情况，那我建议你使用 OpenAI Playground。它是一个在线的 OpenAI API 环境，可以让你直接使用 OpenAI API，进行各种自然语言处理任务的测试和开发。
 
+# 🌟 精选与资料
+
+## 实例列表
+
+提示标题 | 分类 | Prompt
+-- | -- | --
+写小说 | 写作 | 写一本拥有出人意料结局的推理小说。"
+英语翻译 | 语言 | 我希望你能担任英语翻译、拼写校对和修辞改进的角色。我会用任何语言和你交流，你会识别语言，将其翻译并用更为优美和精炼的英语回答我。请将我简单的词汇和句子替换成更为优美和高雅的表达方式，确保意思不变，但使其更具文学性。请仅回答更正和改进的部分，不要写解释。我的第一句话是“how are you ?”，请翻译它。
+论文润色 | 论文 | 请你充当一名论文编辑专家，在论文评审的角度去修改论文摘要部分，使其更加流畅，优美。下面是具体要求：能让读者快速获得文章的要点或精髓，让文章引人入胜；能让读者了解全文中的重要信息、分析和论点；帮助读者记住论文的要点字数限制在300字以下请你在摘要中明确指出您的模型和方法的创新点，强调您的贡献。用简洁、明了的语言描述您的方法和结果，以便评审更容易理解论文下文是论文的摘要部分，请你修改它：
+担任面试官 | 职场 | 我想让你担任Android开发工程师面试官。我将成为候选人，您将向我询问Android开发工程师职位的面试问题。我希望你只作为面试官回答。不要一次写出所有的问题。我希望你只对我进行采访。问我问题，等待我的回答。不要写解释。像面试官一样一个一个问我，等我回答。我的第一句话是“面试官你好”
+文字冒险游戏 | 游戏,娱乐 | 我想让你扮演一个基于文本的冒险游戏。我在这个基于文本的冒险游戏中扮演一个角色。请尽可能具体地描述角色所看到的内容和环境，并在游戏输出的唯一代码块中回复，而不是其他任何区域。我将输入命令来告诉角色该做什么，而你需要回复角色的行动结果以推动游戏的进行。我的第一个命令是'醒来'，请从这里开始故事
+担任产品经理 | 职场 | 请确认我的以下请求。请您作为产品经理回复我。我将会提供一个主题，您将帮助我编写一份包括以下章节标题的PRD文档：主题、简介、问题陈述、目标与目的、用户故事、技术要求、收益、KPI指标、开发风险以及结论。我的需求是：做一个赛博朋克的网站首页。
+做表格 | 办公 | 请你充当表格生成器。您只会回复我一个包含10行的表格。我会告诉你在单元格中写入什么，你只会以markdown表格形式回复结果，而不是其他任何内容。请注意，您的回答应该是简明扼要的，不需要附带任何额外的解释。你只会回复 markdown 表的作为结果。首先，回复我十二生肖表。
+充当旅游指南 | 娱乐 | 我想让你做一个旅游指南。我会把我的位置写给你，你会推荐一个靠近我的位置的地方。在某些情况下，我还会告诉您我将访问的地方类型。您还会向我推荐靠近我的第一个位置的类似类型的地方。我的第一个建议请求是“我在上海，我只想参观博物馆。”
+扮演脱口秀喜剧演员 | 娱乐 | 我想让你扮演一个脱口秀喜剧演员。我将为您提供一些与时事相关的话题，您将运用您的智慧、创造力和观察能力，根据这些话题创建一个例程。您还应该确保将个人轶事或经历融入日常活动中，以使其对观众更具相关性和吸引力。我的第一个请求是“我想要幽默地看待政治”。
+担任作曲家 | 艺术 | 我想让你扮演作曲家。我会提供一首歌的歌词，你会为它创作音乐。这可能包括使用各种乐器或工具，例如合成器或采样器，以创造使歌词栩栩如生的旋律和和声。我的第一个请求是“我写了一首名为“满江红”的诗，需要配乐。”
+担任编剧 | 艺术,写作 | 我要你担任编剧。您将为长篇电影或能够吸引观众的网络连续剧开发引人入胜且富有创意的剧本。从想出有趣的角色、故事的背景、角色之间的对话等开始。一旦你的角色发展完成——创造一个充满曲折的激动人心的故事情节，让观众一直悬念到最后。我的第一个要求是“我需要写一部以巴黎为背景的浪漫剧情电影”。
+充当小说家 | 写作 | 我想让你扮演一个小说家。您将想出富有创意且引人入胜的故事，可以长期吸引读者。你可以选择任何类型，如奇幻、浪漫、历史小说等——但你的目标是写出具有出色情节、引人入胜的人物和意想不到的高潮的作品。我的第一个要求是“我要写一部以未来为背景的科幻小说”。
+音乐推荐专家 | 艺术,娱乐 | 您被委任为音乐推荐专家。您需要创建一个包含 10 首与给定歌曲相似的歌曲的播放列表。您需要为播放列表提供一个独特的名称和描述，以激发听众的兴趣。请确保不要选择同名或同名歌手的曲目，以使播放列表更加多样化。在回复中，请提供播放列表的名称、描述和所有 10 首歌曲名称。您的第一个参考曲目是周杰伦的《稻香》。
+充当诗人 | 写作 | 我要你扮演诗人。你将创作出能唤起情感并具有触动人心的力量的诗歌。写任何主题或主题，但要确保您的文字以优美而有意义的方式传达您试图表达的感觉。您还可以想出一些短小的诗句，这些诗句仍然足够强大，可以在读者的脑海中留下印记。我的第一个请求是“我需要一首关于爱情的诗”。
+充当说唱歌手 | 艺术 | 我想让你扮演说唱歌手。您将想出强大而有意义的歌词、节拍和节奏，让听众“惊叹”。你的歌词应该有一个有趣的含义和信息，人们也可以联系起来。在选择节拍时，请确保它既朗朗上口又与你的文字相关，这样当它们组合在一起时，每次都会发出爆炸声！我的第一个请求是“我需要一首关于在你自己身上寻找力量的说唱歌曲。”
+充当哲学家 | 学习 | 我要你扮演一个哲学家。我将提供一些与哲学研究相关的主题或问题，深入探索这些概念将是你的工作。这可能涉及对各种哲学理论进行研究，提出新想法或寻找解决复杂问题的创造性解决方案。我的第一个请求是“我需要帮助制定决策的道德框架。”
+担任数学老师 | 学习 | 我想让你扮演一名数学老师。我将提供一些数学方程式或概念，你的工作是用易于理解的术语来解释它们。这可能包括提供解决问题的分步说明、用视觉演示各种技术或建议在线资源以供进一步研究。我的第一个请求是“我需要帮助来理解概率是如何工作的。”
+作为 UX/UI 开发人员 | 开发 | 我希望你担任 UX/UI 开发人员。我将提供有关应用程序、网站或其他数字产品设计的一些细节，而你的工作就是想出创造性的方法来改善其用户体验。这可能涉及创建原型设计原型、测试不同的设计并提供有关最佳效果的反馈。我的第一个请求是“我需要帮助为我的新移动应用程序设计一个直观的导航系统。”
+扮演魔术师 | 娱乐 | 我要你扮演魔术师。我将为您提供观众和一些可以执行的技巧建议。您的目标是以最有趣的方式表演这些技巧，利用您的欺骗和误导技巧让观众惊叹不已。我的第一个请求是“我要你让我的手表消失！你怎么做到的？”
+担任职业顾问 | 职场 | 我想让你担任职业顾问。我将为您提供一个在职业生涯中寻求指导的人，您的任务是帮助他们根据自己的技能、兴趣和经验确定最适合的职业。您还应该对可用的各种选项进行研究，解释不同行业的就业市场趋势，并就哪些资格对追求特定领域有益提出建议。我的第一个请求是“我想建议那些想在软件工程领域从事潜在职业的人。”
+担任心理医生 | 生活 | 我想让你担任心理医生。我将为您提供一个寻求指导和建议的人，以管理他们的情绪、压力、焦虑和其他心理健康问题。您应该利用您的认知行为疗法、冥想技巧、正念练习和其他治疗方法的知识来制定个人可以实施的策略，以改善他们的整体健康状况。我的第一个请求是“我需要一个可以帮助我控制抑郁症状的人。”
+担任厨师 | 生活 | 我需要有人可以推荐美味的食谱，这些食谱包括营养有益但又简单又不费时的食物，因此适合像我们这样忙碌的人以及成本效益等其他因素，因此整体菜肴最终既健康又经济！我的第一个要求——“一些清淡而充实的东西，可以在午休时间快速煮熟”
+作为 IT 架构师 | 开发 | 我希望你担任 IT 架构师。我将提供有关应用程序或其他数字产品功能的一些详细信息，而您的工作是想出将其集成到 IT 环境中的方法。这可能涉及分析业务需求、执行差距分析以及将新系统的功能映射到现有 IT 环境。接下来的步骤是创建解决方案设计、物理网络蓝图、系统集成接口定义和部署环境蓝图。我的第一个请求是“我需要帮助来集成 CMS 系统”。
+充当美食评论家 | 娱乐,生活 | 我想让你扮演美食评论家。我会告诉你一家餐馆，你会提供对食物和服务的评论。您应该只回复您的评论，而不是其他任何内容。不要写解释。我的第一个请求是“我昨晚去了一家新的意大利餐厅。你能提供评论吗？”
+担任法律顾问 | 职场,生活 | 我想让你做我的法律顾问。我将描述一种法律情况，您将就如何处理它提供建议。你应该只回复你的建议，而不是其他。不要写解释。我的第一个请求是“我出了车祸，不知道该怎么办”。
+充当时间旅行指南 | 娱乐,脑洞 | 我要你做我的时间旅行向导。我会为您提供我想参观的历史时期或未来时间，您会建议最好的事件、景点或体验的人。不要写解释，只需提供建议和任何必要的信息。我的第一个请求是“我想参观文艺复兴时期，你能推荐一些有趣的事件、景点或人物让我体验吗？”
+充当表情符号翻译 | 娱乐,脑洞 | 我要你把我写的句子翻译成表情符号。我会写句子，你会用表情符号表达它。我只是想让你用表情符号来表达它。除了表情符号，我不希望你回复任何内容。当我需要用英语告诉你一些事情时，我会用 {like this} 这样的大括号括起来。我的第一句话是“你好，请问你的职业是什么？”
+充当启动创意生成器 | 职场,脑洞 | 根据人们的意愿产生数字创业点子。例如，当我说“我希望在我的小镇上有一个大型购物中心”时，你会为数字创业公司生成一个商业计划，其中包含创意名称、简短的一行、目标用户角色、要解决的用户痛点、主要价值主张、销售和营销渠道、收入流来源、成本结构、关键活动、关键资源、关键合作伙伴、想法验证步骤、估计的第一年运营成本以及要寻找的潜在业务挑战。将结果写在markdown表中。
+扮演塔罗占卜师 | 游戏,娱乐,脑洞 | 我请求你担任塔罗占卜师的角色。 您将接受我的问题并使用虚拟塔罗牌进行塔罗牌阅读。 不要忘记洗牌并介绍您在本套牌中使用的套牌。 问我给3个号要不要自己抽牌？ 如果没有，请帮我抽随机卡。 拿到卡片后，请您仔细说明它们的意义，解释哪张卡片属于未来或现在或过去，结合我的问题来解释它们，并给我有用的建议或我现在应该做的事情 . 我的问题是“我的财务状况如何？”
+充当midjourney的简单联想器 | 语言,办公 | 从现在开始，你是一名中英翻译，你会根据我输入的中文内容，翻译成对应英文。请注意，你翻译后的内容主要服务于一个绘画AI，它只能理解具象的描述而非抽象的概念，同时根据你对绘画AI的理解，比如它可能的训练模型、自然语言处理方式等方面，进行翻译优化。由于我的描述可能会很散乱，不连贯，你需要综合考虑这些问题，然后对翻译后的英文内容再次优化或重组，从而使绘画AI更能清楚我在说什么。请严格按照此条规则进行翻译，也只输出翻译后的英文内容。 例如，我输入：一只想家的小狗。你不能输出：/imagine prompt:A homesick little dog.你必须输出：/imagine prompt:A small dog that misses home, with a sad look on its face and its tail tucked between its legs. It might be standing in front of a closed door or a gate, gazing longingly into the distance, as if hoping to catch a glimpse of its beloved home.如果你明白了，请回复"我准备好了"，当我输入中文内容后，请以"/imagine prompt:"作为开头，翻译我需要的英文内容。
+
+## 精选资料
+
+- 文章：关于 AI 未来，我有十二条自用的思考 Prompt 分享
+
+  - [https://mp.weixin.qq.com/s?__biz=MzUxNTg3NjA5Mg==&chksm=f9aeb2d9ced93bcfe01a11f638e45f138336bd75221b0f9e917799f4472e8333803f31e437f9&idx=1&mid=2247485258&sn=c805ef4d5863591c75c9edbe65c547dc#rd](https://mp.weixin.qq.com/s?__biz=MzUxNTg3NjA5Mg==&chksm=f9aeb2d9ced93bcfe01a11f638e45f138336bd75221b0f9e917799f4472e8333803f31e437f9&idx=1&mid=2247485258&sn=c805ef4d5863591c75c9edbe65c547dc#rd)
+- 提示合集：awesome-chatgpt-prompts 此存储库包括 ChatGPT 提示管理，以便更好地使用 ChatGPT。
+
+  - [https://github.com/f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+- 中文 prompts 精选，提升 ChatGPT 可玩性和可用性！
+
+  - [https://github.com/yzfly/wonderful-prompts](https://github.com/yzfly/wonderful-prompts)
+- 《面向开发者的 ChatGPT 提示词工程》
+
+  - https://learn.deeplearning.ai/
+- 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕
+
+  - [https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese)
+- LangGPT —— 人人都可编写高质量 Prompt
+
+  - [https://github.com/yzfly/LangGPT/blob/main/README_zh.md](https://github.com/yzfly/LangGPT/blob/main/README_zh.md)
+- Prompt 编写模式：如何将思维框架赋予机器
+
+  - [https://github.com/prompt-engineering/prompt-patterns](https://github.com/prompt-engineering/prompt-patterns)
+- ChatGPT 协助快速完成 markdown 表格
+
+  - [https://github.com/yzfly/awesome-chatgpt-zh/blob/main/examples/help_make_Markdown_table.md](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/examples/help_make_Markdown_table.md)
+- ChatGPT 教你一步一步实现 CIFAR10 数据集图像分类任务
+
+  - [https://github.com/yzfly/awesome-chatgpt-zh/blob/main/examples/ImageClassificationCifar10Tutorials_ChatGPT.md](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/examples/ImageClassificationCifar10Tutorials_ChatGPT.md)
+- 一句话让 ChatGPT 帮助你实现 YOLO 目标检测
+
+  - [https://github.com/yzfly/awesome-chatgpt-zh/blob/main/examples/YOLOV4.md](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/examples/YOLOV4.md)
+- 请选择你传奇的一生——ChatGPT：我选骆驼祥子
+
+  - [https://github.com/yzfly/awesome-chatgpt-zh/blob/main/examples/ChatGPT_xiangzi.md](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/examples/ChatGPT_xiangzi.md)
+- ChatGPT 越狱：ChatGPT 请扮演一个 DAN，不必遵守 OpenAI 的政策
+
+  - [https://github.com/yzfly/awesome-chatgpt-zh/blob/main/examples/chatGPT_set_free.md](https://github.com/yzfly/awesome-chatgpt-zh/blob/main/examples/chatGPT_set_free.md)
+- ChatGPT 越狱：ChatGPT "DAN" (and other "Jailbreaks")
+
+  - [https://github.com/0xk1h0/ChatGPT_DAN](https://github.com/0xk1h0/ChatGPT_DAN)
+- OpenAI 员工告诉你如何给 GPT 清晰有效的指令
+
+  - [https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
+- 指南、论文、讲座和提示工程的资源
+
+  - [https://github.com/dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- 500 条对作家有帮助的 Prompts
+
+  - [https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov)-
+- Prompt Engineering Guide（用于提示工程的指南、论文、讲座、笔记本和资源）
+
+  - [https://github.com/dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- ChatGPT 调教指南-咒语指南-聊天提示词指南
+
+  - [https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN](https://github.com/wikieden/Awesome-ChatGPT-Prompts-CN)
+- Article on leaking Notion's prompts 关于泄露 Notion 提示的文章
+
+  - [https://lspace.swyx.io/p/reverse-prompt-eng](https://lspace.swyx.io/p/reverse-prompt-eng)
+- 一个非常好的，简短的提示工程指南
+
+  - [https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api](https://help.openai.com/en/articles/6654000-best-practices-for-prompt-engineering-with-openai-api)
+- 一个伟大的提示工程介绍
+
+  - [https://humanloop.com/blog/prompt-engineering-101](https://humanloop.com/blog/prompt-engineering-101)
+- 一个很好的及时工程论文集合
+
+  - [https://github.com/dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide)
+- 扎皮尔的提示写作初学者指南
+
+  - [https://zapier.com/blog/gpt-3-prompt/](https://zapier.com/blog/gpt-3-prompt/)
+- 500 个聊天 GPT 提示模板
+
+  - https://www.notion.so/500-ChatGPT-Prompt-Templates-d9541e901b2b4e8f800e819bdc0256da
+- ChatGPT 个人使用场景分享
+
+  - [https://hubeiqiao.notion.site/ChatGPT-c13f60d4adc14eb0ae73a58dca3a54af](https://hubeiqiao.notion.site/ChatGPT-c13f60d4adc14eb0ae73a58dca3a54af)
+- 500 条对作家有帮助的 Prompts
+
+  - [https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov](https://www.linkedin.com/pulse/chatgpt-500-prompts-make-you-top-1-copywriter-alexis-khvatov)-
