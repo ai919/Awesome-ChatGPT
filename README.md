@@ -74,8 +74,20 @@
 - [AI Text Classifier 检测 AI](https://platform.openai.com/ai-text-classifier)
 - [Wikipedia ChatGPT](https://en.wikipedia.org/w/index.php?title=ChatGPT&oldid=1144021256)
 
-# <strong>🆕 版本</strong> 
+## <strong>🆕 版本</strong> 
 - [前往wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#-%E7%89%88%E6%9C%AC)
 
-# <strong>🛍️ OpenAI 产品</strong>
+## <strong>🛍️ OpenAI 产品</strong>
 - [前往wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%EF%B8%8F-openai-%E4%BA%A7%E5%93%81)
+
+## <strong>📱 社交媒体</strong>
+- [前往wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#-%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93)
+
+## <strong>🛠️ API 工具</strong>
+- [前往wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#%EF%B8%8F-api-%E5%B7%A5%E5%85%B7)
+
+## <strong>🤔 Prompt 工具</strong>
+- [前往wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#-prompt-%E5%B7%A5%E5%85%B7)
+
+## <strong>💻 Prompt IDEs</strong>
+- [前往wiki查阅](https://github.com/ai919/Awesome-ChatGPT/wiki/%F0%9F%92%BC-%E5%AE%9E%E7%94%A8%E8%B5%84%E6%BA%90#-prompt-ides)
