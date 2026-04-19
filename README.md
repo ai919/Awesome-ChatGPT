@@ -44,7 +44,9 @@
 
 ## 🌐 值得关注的网站
 
+- [Agent Shadow Brain](https://github.com/theihtisham/agent-shadow-brain) - Self-evolving AI coding intelligence with infinite memory (TurboQuant), genetic algorithm self-evolution, predictive bug detection, PageRank knowledge graphs, swarm intelligence, and adversarial defense.
 - [Ben’s Bites:](https://www.bensbites.co/) 日更的 AI 相关的 newsletter，每期都会分享新产品，值得订阅。
+- [Omni Skills Forge](https://github.com/theihtisham/omni-skills-forge) - 50,000+ curated AI agent skills for Claude Code, Cursor, Copilot, Windsurf, Cline. Visual dashboard, one-click install, skill doctor, auto-update.
 - [Prompt Engineering Overview by Elvis Saravia](https://www.youtube.com/watch?v=dOxUroR57xs): 工程基础知识和所有最新即时工程技术的讲座
 - GPT 学习宝典 [https://gpt.candobear.com/courses](https://gpt.candobear.com/courses)
 
