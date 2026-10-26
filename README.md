@@ -1374,6 +1374,7 @@ Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM | https://git
 - [GLM](https://github.com/THUDM/GLM-130B) - GLM 是清华大学开发的通用语言模型。GLM-130B 是 GLM 的开源双语（英文&中文）版本，拥有 1300 亿个参数，为拥有单个 A100 或 V100 服务器的用户设计。
 - [GPT-NeoXT-Chat-Base-20B](https://huggingface.co/togethercomputer/GPT-NeoXT-Chat-Base-20B) 一个可以进行聊天和图片生成的开源语言模型。
 - [BLOOM](https://huggingface.co/bigscience/bloom) - BLOOM 是 BigScience 的一个自回归大型语言模型（LLM），经过训练，可以利用工业规模的计算资源，从大量的文本数据中延续提示的文本。
+- [Mode VC LLM Inference Cost Calculator](https://modevc.com/tools/llm-inference-calculator) - Free browser-side LLM token unit economics, prompt caching, and gross margin calculator across 8 frontier and open-weights models.
 - OPT - 利用元人工智能技术，在开放式预训变压器语言模型中提出了 OPT 模型。OPT 是一系列开源的大型因果语言模型，其性能与 GPT3 相似。
 
 ## <strong>学术分析</strong>
