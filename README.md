@@ -1433,6 +1433,7 @@ Meta发布“分割一切”AI模型，CV或迎来GPT-3时刻: SAM | https://git
 Vondy：发现和使用数百种人工智能工具 | https://www.vondy.com/ | Vondy，它能够让您发现和使用数百种人工智能工具，包括编码、写作、数据科学等多个领域的工具，而无需离开平台。
 explainAi | https://www.explainthis.io/zh-hans/ai-toolkit | 最实用、最热门的 AI 工具，帮助你在工作与学习上更轻松有效率
 futurepedia | https://www.futurepedia.io/ | 未来百科 最大的 AI 工具目录，每日更新
+RespawnStack | https://respawnstack.com/ | 面向独立游戏开发者的 AI 游戏工具目录
 SaaS AI Tools | https://saasaitools.com/#tools | 是您获取新 AI 工具和每日 AI 新闻的来源
 gpt3demo | https://gpt3demo.com/ | ChatGPT 用法和 APP集合
 全球AI网站汇总 | https://github.com/xxxily/hello-ai/blob/main/home/navigation.md | 提供丰富而全面的AI网站汇总，资料来源(脑图)
