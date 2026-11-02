@@ -693,6 +693,15 @@ use temperature of 2
 同时，我们也可以尝试使用其他符号，例如 ### 符号，来区隔指令和待处理文本。根据实际情况，选择合适的符号可以帮助我们更好地与 AI 进行交互，并得到更准确的处理结果。
 
 ## 💡 生成图片
+- [PromptImage](https://promptimage.cloud)：Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design)：Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev)：Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
+- [Alors On Danse Video Maker](https://alorsondansevideo.com): Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
+- [Bad Times AI](https://badtimesai.dev): Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
+- [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com): Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev): Independent unofficial AI dance effect: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99; not affiliated with Riot Games or K/DA)
+- [A2O LITE NEON AI Dance](https://a2oliteai.org): Independent unofficial AI dance effect: two photos → neon duo dance video (Paid from $7.99)
+- [dime dime baby ai](https://dimedimebabyai.dev): Independent unofficial AI dance effect: photo → short dance video (Paid from $7.99)
 
 准确地来说是提供图片，而不是生成！这里介绍一种方式：透过 Unsplash API 让 ChatGPT 能够产生图片 + 文字的回答。只需在提示词中使用 Unsplash 的 API 并使用 Markdown 语法即可在 ChatGPT 中显示图片：
 
