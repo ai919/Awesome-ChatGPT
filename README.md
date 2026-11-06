@@ -47,6 +47,7 @@
 - [Ben’s Bites:](https://www.bensbites.co/) 日更的 AI 相关的 newsletter，每期都会分享新产品，值得订阅。
 - [Prompt Engineering Overview by Elvis Saravia](https://www.youtube.com/watch?v=dOxUroR57xs): 工程基础知识和所有最新即时工程技术的讲座
 - GPT 学习宝典 [https://gpt.candobear.com/courses](https://gpt.candobear.com/courses)
+- AICDKS 教程中心 [https://aicdks.com/guides](https://aicdks.com/guides)：30+ 篇免费中文实操教程，涵盖 ChatGPT/Claude/Gemini 账号注册充值、Claude Code/Codex 国内安装配置、API 中转与接码说明，新手向避坑指南。
 
 ## 🔍 通常资源
 
