@@ -38,6 +38,8 @@
 
 ⭐️<strong>[中文 ChatGPT 精选资源清单](https://github.com/DeepTecher/awesome-ChatGPT-resource-zh)</strong><strong> 中文资源列表</strong>
 
+⭐️<strong>[律师 AI 实务手册](https://lttxzmj.github.io/lawpulse-site/blog/index.html)</strong><strong> 法律行业 AI 教程（免费，含合同审查、法条核查、提示词模板）</strong>
+
 ⭐️⭐️⭐️<strong>[awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)<strong><strong> 英文资源列表大全</strong>
 ⭐️⭐️<strong>[MJCN 新手指南 · 快速上手](https://docs.qq.com/doc/DR2ZDUUZyWnJITE9y)<strong><strong> MJ基础教程引导</strong>
 
